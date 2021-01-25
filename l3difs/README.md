@@ -70,8 +70,14 @@ javac l3difs/*.java
 # créer l'archive aar
 jar cvf helloService.aar
 ```
-Déplacez le fichier __helloService.aar__ dans le répertoire _C:/xampp/tomcat/webapps/axis2/WEB-INF/services_ Arrêtez/relancer le service tomcat.
-Vérifier enfin que votre service est disponible à l'adresse http://localhost:8080/axis2/services/listServices
+Déplacez le fichier __helloService.aar__ ((archive ici)[]) dans le répertoire _C:/xampp/tomcat/webapps/axis2/WEB-INF/services_ Arrêtez/relancer le service tomcat.
+Vérifier enfin que votre service est disponible à l'adresse http://localhost:8080/axis2/services/listServices et essayez d'utiliser la méthode _message_ en tapant l'url http://localhost:8080/axis2/services/hello?method=message 
+Vous devirez voir appraître un fichier XML de la forme suivante : 
+```
+<ns:messageResponse xmlns:ns="http://l3difs">
+   <ns:return>Bonjour le monde</ns:return>
+</ns:messageResponse>
+```
 
 # un client java pour notre service
 Notre client va avoir besoin d'un minimum d'informations qui va lui permettre d'appeler le service. Ces informations peuvent être générées directement par le framework Axis2

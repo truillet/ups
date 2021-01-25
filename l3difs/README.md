@@ -9,6 +9,7 @@
 * ajoutez à la variable PATH le chemin AXIS2_HOME/bin
 * sur Xampp, lancez le serveur Tomcat. Vérifiez que tout fonctionne en ouvrant une page du navigateur avec l'URL http://locahost:8080, allez dans 
 * modifiez maintenant le fichier tomcat_users.xml (qui se situe sur "C:/xampp/tomcat/conf"
+
 Ajoutez les lignes suivantes :
 ```<tomcat-users ...>
   <role rolename="admin-gui"/>
@@ -49,16 +50,27 @@ public class helloService {
     }
 }
 ```
-Enfin, le ficheir services.xml expose le service
+Enfin, le fichier __services.xml__ expose le service
 ```
-<service>
-    <parameter name="helloService" locked="false">
-       l3difs.helloService
-    </parameter>
+<service name="hello">
+    <description>
+        This service says hello
+    </description>
+    <parameter name="ServiceClass">l3difs.helloService</parameter>
     <operation name="message">
         <messageReceiver class="org.apache.axis2.rpc.receivers.RPCMessageReceiver" />
     </operation>
 </service>
 ```
+Il suffit maintenant de compiler les sources, créer l'archive Axis2 et la déployer sur le serveur Axis
+
+```
+javac l3difs/*.java
+
+# créer l'archive aar
+jar cvf helloService.aar
+```
+Déplacez le fichier __helloService.aar__ dans le répertoire _C:/xampp/tomcat/webapps/axis2/WEB-INF/services_ Arrêtez/relancer le service tomcat.
+Vérifier enfin que votre service est disponible à l'adresse http://localhost:8080/axis2/services/listServices
 
 

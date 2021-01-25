@@ -30,10 +30,35 @@ __Nota__ : Pour les étudiants, un certain nombre d'outils sont accesibles gratu
 
 # Un service "basique" 
 Une archive Axis2 (extension _.aar_) possède une structure particulière. Nous allons créer un premier service nommé __helloService__. 
-.
+```.
 ├── helloService
     ├─── META-INF
     │ └─── services.xml
     └── l3difs
       └─── helloService.java
+```
+La classe est une classe "classique" en java
+```
+package l3difs;
+
+public class helloService {
+    helloService() {
+    }
+    public String message() {
+        return("Bonjour, à votre service");
+    }
+}
+```
+Enfin, le ficheir services.xml expose le service
+```
+<service>
+    <parameter name="helloService" locked="false">
+       l3difs.helloService
+    </parameter>
+    <operation name="message">
+        <messageReceiver class="org.apache.axis2.rpc.receivers.RPCMessageReceiver" />
+    </operation>
+</service>
+```
+
 

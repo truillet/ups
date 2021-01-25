@@ -1,5 +1,4 @@
 # installer Apache Tomcat & le framework AXIS 
-
 ## A télécharger
 * Apache [XAMPP](https://www.apachefriends.org/fr/index.html) : téléchargez votre distribution et installez-là sur votre système (par exemple dans "C:/xampp").
 * Apache [AXIS2](https://axis.apache.org) : téléchargez la distribtion [axis 1.7.9](http://www.apache.org/dyn/closer.lua/axis/axis2/java/core/1.7.9/axis2-1.7.9-bin.zip) et désippez le fichier.
@@ -21,7 +20,12 @@ Ajoutez les lignes suivantes :
 ## A vérifier
 Une fois ces opérations effectuées, allez à la page http://localhost:8080/axis2/. Suivez le lien _Validate_ afin de vérifier que votre installation s'est bien déroulée.
 
-Suivez maintenant le lien _Services_ pour lister les [services installés](
-http://localhost:8080/axis2/services/listServices). Normalement, le service __Version__ est installé.
+Suivez maintenant le lien _Services_ pour lister les [services installés](http://localhost:8080/axis2/services/listServices). Normalement, le service __Version__ est installé.
 Vérifier la définition [WSDL](http://localhost:8080/axis2/Version?wsdl) puis appelez la méthode [getVersion](http://localhost:8080/axis2/Version?method=getVersion)
 
+# IntellijIDEA et le plugin Axis
+__Nota__ : Pour les étudiants, un certain nombre d'outils sont accesibles gratuitement avec le pack [Github for Education](https://education.github.com/pack#offers)
+
+## A télécharger
+* _(Téléchargez [IntellijIDEA](https://www.jetbrains.com/idea/download) si nécessaire)_ (la version Ultimate est nécessaire)
+* Téléchargez le plugin [Axis2 pour IntellijIDEA](https://axis.apache.org/axis2/java/core/download.html). Désippez le fichier et placez le dans le dossier _<dossier_IntellijIDEA>/plugins_

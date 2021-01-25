@@ -1,4 +1,4 @@
-# installer Apache Tomcat & le framework AXIS 
+# Etape 1 : installer Apache Tomcat & le framework AXIS 
 ## A télécharger
 * Apache [XAMPP](https://www.apachefriends.org/fr/index.html) : téléchargez votre distribution et installez-là sur votre système (par exemple dans "C:/xampp").
 * Apache [AXIS2](https://axis.apache.org) : téléchargez la distribution [axis 1.7.9](http://www.apache.org/dyn/closer.lua/axis/axis2/java/core/1.7.9/axis2-1.7.9-bin.zip) et désippez le fichier (par exemple dans C:/axis2-1.7.9)
@@ -29,7 +29,7 @@ Vérifier la définition [WSDL](http://localhost:8080/axis2/Version?wsdl) puis a
 # Un IDE : IntellijIDEA 
 __Nota__ : Pour les étudiants, un certain nombre d'outils sont accesibles gratuitement avec le pack [Github for Education](https://education.github.com/pack#offers)
 
-# Un service "basique" 
+# Etape 2 : Ecrire un service "basique" 
 Une archive Axis2 (extension _.aar_) possède une structure particulière. Nous allons créer un premier service nommé __helloService__. 
 ```.
 ├── helloService
@@ -80,7 +80,7 @@ Vous devirez voir appraître un fichier XML de la forme suivante :
 </ns:messageResponse>
 ```
 
-# un client java pour notre service
+# Etape 3 : écrire un client java pour notre service
 Notre client va avoir besoin d'un minimum d'informations qui va lui permettre d'appeler le service. Ces informations peuvent être générées directement par le framework Axis2.
 Créez un répertoire _client_ et positionnez-vous dedans. Tapez la commande suivante afin de créer les talons ("stubs") nécessaires à la création de votre cleint du web service.
 ```
@@ -96,4 +96,12 @@ L'arborescence suivante devrait être automatiquement générée
 │         └─── HelloStub.java         
 ├── build.xml
 ```
-
+Nous aallons créer notre client dans le package _l3difs/client_ : [helloClient.java](https://github.com/truillet/ups/blob/master/l3difs/code/helloClient.java).
+Compilons le code et exécutons-le
+```
+cd src
+javac -cp .;%AXIS2_HOME%/lib/* ./src/l3difs/*.java
+javac -cp .;%AXIS2_HOME%/lib/* ./src/l3difs/client/*.java
+# Exécuter le code 
+java -cp .;%AXIS2_HOME%/lib/* l3difs.client.helloClient
+```

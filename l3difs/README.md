@@ -26,8 +26,8 @@ Une fois ces opérations effectuées, allez à la page http://localhost:8080/axi
 Suivez maintenant le lien _Services_ pour lister les [services installés](http://localhost:8080/axis2/services/listServices). Normalement, le service __Version__ est installé.
 Vérifier la définition [WSDL](http://localhost:8080/axis2/Version?wsdl) puis appelez la méthode [getVersion](http://localhost:8080/axis2/Version?method=getVersion)
 
-# Un IDE : IntellijIDEA 
-__Nota__ : Pour les étudiants, un certain nombre d'outils sont accesibles gratuitement avec le pack [Github for Education](https://education.github.com/pack#offers)
+# (Optionnel : Un IDE : IntellijIDEA)
+__Nota__ : Pour les étudiants, un certain nombre d'outils sont accesibles gratuitement avec le pack [Github for Education](https://education.github.com/pack#offers) dont IntellijIDEA dans sa versino __Ultimate__ (qui permet la gestion des web services)
 
 # Etape 2 : Ecrire un service "basique" 
 Une archive Axis2 (extension _.aar_) possède une structure particulière. Nous allons créer un premier service nommé __helloService__. 
@@ -82,7 +82,7 @@ Vous devirez voir appraître un fichier XML de la forme suivante :
 
 # Etape 3 : écrire un client java pour notre service
 Notre client va avoir besoin d'un minimum d'informations qui va lui permettre d'appeler le service. Ces informations peuvent être générées directement par le framework Axis2.
-Créez un répertoire _client_ et positionnez-vous dedans. Tapez la commande suivante afin de créer les talons ("stubs") nécessaires à la création de votre cleint du web service.
+Créez un répertoire _client_ et positionnez-vous dedans. Tapez la commande suivante afin de créer les talons ("stubs") nécessaires à la création de votre client du web service. Vous pouvez regarder le code mais en aucun cas le modifier :) ; en effet, les opérations d'encodage et de décodage des données est __caché__ et vous permet une plus grande souplesse dans la gestion de vos web_services.
 ```
 mkdir client
 cd client
@@ -96,7 +96,7 @@ L'arborescence suivante devrait être automatiquement générée
 │         └─── HelloStub.java         
 ├── build.xml
 ```
-Nous aallons créer notre client dans le package _l3difs/client_ : [helloClient.java](https://github.com/truillet/ups/blob/master/l3difs/code/helloClient.java).
+Nous allons créer notre client dans le package _l3difs/client_ : [helloClient.java](https://github.com/truillet/ups/blob/master/l3difs/code/helloClient.java).
 Compilons le code et exécutons-le
 ```
 cd src
@@ -105,3 +105,30 @@ javac -cp .;%AXIS2_HOME%/lib/* ./src/l3difs/client/*.java
 # Exécuter le code 
 java -cp .;%AXIS2_HOME%/lib/* l3difs.client.helloClient
 ```
+# Etape 4 : "Up to you" - générer et utiliser votre propre service
+Vous allez maintenant reproduire toutes ces étapes pour écrire et déployer le web service __Compte__ dont voici les méthodes principales :
+
+```
+public class Compte {
+	private float Solde;
+
+	// Constructeur
+	public Compte() {
+		Solde = 0.0;
+	}
+
+	public void deposer (float montant) {
+		…
+	}
+
+	public boolean retirer (float montant) {
+		// retourne true si le solde reste positif, false sinon
+		…
+	}
+
+	public float solde() {
+		…
+	}
+```
+
+Créez finalement un client java qui utilise le service __Compte__. On veut pouvoir effectuer des dépôts, effectuer des retraits et visualiser le solde.

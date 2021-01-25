@@ -70,7 +70,8 @@ javac l3difs/*.java
 # créer l'archive aar
 jar cvf helloService.aar
 ```
-Déplacez le fichier __helloService.aar__ ((archive .aar ici)[https://github.com/truillet/ups/blob/master/l3difs/code/helloService.aar] et [fichiers sources là](https://github.com/truillet/ups/blob/master/l3difs/code/helloService.zip)) dans le répertoire _C:/xampp/tomcat/webapps/axis2/WEB-INF/services_ Arrêtez/relancer le service tomcat.
+Déplacez le fichier __helloService.aar__ ((archive .aar ici)[https://github.com/truillet/ups/blob/master/l3difs/code/helloService.aar] et [fichiers sources là](https://github.com/truillet/ups/blob/master/l3difs/code/helloService.zip)) dans le répertoire _C:/xampp/tomcat/webapps/axis2/WEB-INF/services_ 
+Arrêtez/relancer le service tomcat.
 Vérifier enfin que votre service est disponible à l'adresse http://localhost:8080/axis2/services/listServices et essayez d'utiliser la méthode _message_ en tapant l'url http://localhost:8080/axis2/services/hello?method=message 
 Vous devirez voir appraître un fichier XML de la forme suivante : 
 ```
@@ -80,5 +81,19 @@ Vous devirez voir appraître un fichier XML de la forme suivante :
 ```
 
 # un client java pour notre service
-Notre client va avoir besoin d'un minimum d'informations qui va lui permettre d'appeler le service. Ces informations peuvent être générées directement par le framework Axis2
+Notre client va avoir besoin d'un minimum d'informations qui va lui permettre d'appeler le service. Ces informations peuvent être générées directement par le framework Axis2.
+Créez un répertoire _client_ et positionnez-vous dedans. Tapez la commande suivante afin de créer les talons ("stubs") nécessaires à la création de votre cleint du web service.
+```
+mkdir client
+cd client
+wsdl2java -uri http://localhost:8080/axis2/services/hello?wsdl -o .
+```
+L'arborescence suivante devrait être automatiquement générée
+```.
+├── src
+│    ├─── l3difs
+│         ├──  HelloCallbackHandler.java   
+│         └─── HelloStub.java         
+├── build.xml
+```
 

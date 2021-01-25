@@ -29,7 +29,8 @@ Vérifier la définition [WSDL](http://localhost:8080/axis2/Version?wsdl) puis a
 __Nota__ : Pour les étudiants, un certain nombre d'outils sont accesibles gratuitement avec le pack [Github for Education](https://education.github.com/pack#offers)
 
 # Un service "basique" 
-
+Une archive Axis2 (extension _.aar_) possède une structure particulière. Nous allons créer un premier service nommé __helloService__. 
+.
 ├── helloService
     ├─── META-INF
     │ └─── services.xml

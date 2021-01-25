@@ -73,4 +73,6 @@ jar cvf helloService.aar
 Déplacez le fichier __helloService.aar__ dans le répertoire _C:/xampp/tomcat/webapps/axis2/WEB-INF/services_ Arrêtez/relancer le service tomcat.
 Vérifier enfin que votre service est disponible à l'adresse http://localhost:8080/axis2/services/listServices
 
+# un client java pour notre service
+Notre client va avoir besoin d'un minimum d'informations qui va lui permettre d'appeler le service. Ces informations peuvent être générées directement par le framework Axis2
 

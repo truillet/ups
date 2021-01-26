@@ -105,7 +105,7 @@ javac -cp .;%AXIS2_HOME%/lib/* ./src/l3difs/client/*.java
 # Exécuter le code 
 java -cp .;%AXIS2_HOME%/lib/* l3difs.client.helloClient
 ```
-# Etape 4 : "Up to you" - générer et utiliser votre propre service
+# Etape 4 : "Up to you" - générez et utilisez votre propre service
 Vous allez maintenant reproduire toutes ces étapes pour écrire et déployer le web service __Compte__ dont voici les méthodes principales :
 
 ```

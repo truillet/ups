@@ -4,9 +4,9 @@
 * Apache [AXIS2](https://axis.apache.org) : téléchargez la distribution [axis 1.7.9](http://www.apache.org/dyn/closer.lua/axis/axis2/java/core/1.7.9/axis2-1.7.9-bin.zip) et désippez le fichier (par exemple dans C:/axis2-1.7.9)
 
 ## A configurer
-* Si ce n'est pas déjà fait, configurez la variable d'environnement JAVA_HOME afin de pointer sur un JRE ou JDK valide
-* configurez la variable d'environnement AXIS2_HOME afin de pointer vers le chemin d'installation d'Axis
-* ajoutez à la variable PATH le chemin AXIS2_HOME/bin
+* Si ce n'est pas déjà fait, configurez la variable d'environnement __JAVA_HOME__ afin de pointer sur un JRE ou JDK valide
+* configurez la variable d'environnement __AXIS2_HOME__ afin de pointer vers le chemin d'installation d'Axis
+* ajoutez à la variable __PATH__ le chemin _AXIS2_HOME/bin_
 * sur Xampp, lancez le serveur Tomcat. Vérifiez que tout fonctionne en ouvrant une page du navigateur avec l'URL http://locahost:8080, allez dans 
 * modifiez maintenant le fichier tomcat_users.xml (qui se situe sur "C:/xampp/tomcat/conf"
 

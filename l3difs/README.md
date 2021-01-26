@@ -108,6 +108,7 @@ javac -cp .;%AXIS2_HOME%/lib/* ./src/l3difs/client/*.java
 java -cp .;%AXIS2_HOME%/lib/* l3difs.client.helloClient
 ```
 # Etape 4 : "Up to you" - générez et utilisez votre propre service
+## Excercice 1
 Vous allez maintenant reproduire toutes ces étapes pour écrire et déployer le web service __Compte__ dont voici les méthodes principales :
 
 ```
@@ -135,8 +136,7 @@ public class Compte {
 
 Créez finalement un client java qui utilise le service __Compte__. On veut pouvoir effectuer des dépôts, effectuer des retraits et visualiser le solde.
 
-
-
+## Exercice 2
 L'exercice suivant consiste à simuler un serveur de messagerie électronique. Les quatre principales fonctionnalités sont 1/ de recevoir des messages électroniques de la part d'expéditeurs, 2/ les stocker dans une boîte aux lettres, 3/ les transmettre sur demande à des destinataires et 4/ supprimer les messages lus d'un destinataire.
 
 Développez les deux classes _[Message.java](https://github.com/truillet/ups/blob/master/l3difs/code/Message.java)_ et _[MailServer.java](https://github.com/truillet/ups/blob/master/l3difs/code/MailServer.java)_ du package _l3difs.service.Mail_, déployez le serveur et un client java afin de pouvoir envoyer un email, lire et supprimer les emails reçus.

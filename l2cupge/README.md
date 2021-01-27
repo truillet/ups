@@ -28,7 +28,8 @@ sudo apt install openjdk-8-jdk-headless
 __gcc__
 ```
 gcc -c fichier.c # compile le fichier .c et génère le fichier.o
-gcc -S fishcier.c # génère le code ASM fichier.s
+gcc -E fichier.c # montre le résultat issu de l'étape du pré-processeur
+gcc -S fichier.c # génère le code ASM fichier.s
 ```
 
 ## Contrôles continus, Projet & examen

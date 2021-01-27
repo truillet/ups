@@ -1,1 +1,47 @@
+# Structures de données / Langage C
 
+## Quelques liens 
+
+* D. Ritchie, [The Development of the C Language](https://heim.ifi.uio.no/inf2270/programmer/historien-om-C.pdf), ACM SIGPLAN Notices, Volume 28, n° 3, March 1993, pp. 201-208
+* [Quick and Dirty Guide to C](https://courses.cs.washington.edu/courses/cse351/14sp/sections/1/Cheatsheet-c.pdf)
+* [Pointer Cheat Sheet](https://c-for-dummies.com/caio/pointer-cheatsheet.php)
+* [Installer le sous-sytème ubuntu sous windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+
+## Travaux Pratiques
+[Eléments sur le déroulement du semestre](https://github.com/truillet/ups/blob/master/l2cupge/TP/infos_L2CUPGE.pdf)
+
+* **TP 1** : [prise en main](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP1_Prise_en_main.pdf) et [solution](https://github.com/truillet/ups/blob/master/l2cupge/TP/solutions/sum.c) (2021)
+* **TP 2** : [utilisation de structure simple](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP2_Structure_Simple.pdf) et [solution](https://github.com/truillet/ups/blob/master/l2cupge/TP/solutions/jeucarte.c) (2021)
+* **TP 3 & 4** : [exploration de labyrinthes](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP3-4_Exploration.pdf) et [début de solution]() (2021)
+* **TP 5** : [compilation séparée](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP5_Compilation_Separee.pdf) et [solution](https://github.com/truillet/ups/blob/master/l2cupge/TP/solutions/compilation_separee.zip)
+* **TP 6 & 7** : [Graphes - partie 1](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP6-7_Graphes1.pdf) et [début de solution](https://github.com/truillet/ups/blob/master/l2cupge/TP/solutions/Graphes_LC.zip)
+* **TP 8 & 9** : [Graphes - partie 2](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP8-9_Graphes2.pdf)
+* **TP bonus 1** : [arduino](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP10_Arduino.pdf) 
+* **TP bonus 2** : [JNI - articuler java et langage C](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP11_JNI_C.pdf)
+
+### Eléments
+__installer Java OpenJDK (téléchargement des paquets)__
+```
+sudo apt install openjdk-8-jdk-headless
+```
+
+__gcc__
+```
+gcc -c fichier.c # compile le fichier .c et génère le fichier.o
+gcc -S fishcier.c # génère le code ASM fichier.s
+```
+
+## Contrôles continus, Projet & examen
+### Contrôles continus
+
+* **CC1 2020** : [Points et Vecteurs](https://github.com/truillet/ups/blob/master/l2cupge/CC/CC1_Structures_2020.pdf) (solution [ici](https://github.com/truillet/ups/blob/master/l2cupge/CC/CC1_2020.zip))
+* **CC1 2019** : [Complexes](https://github.com/truillet/ups/blob/master/l2cupge/CC/CC1_Structures_2019.pdf) (solution [ici](https://github.com/truillet/ups/blob/master/l2cupge/CC/Complexe.zip))
+* **CC2 2019** : [Listes](https://github.com/truillet/ups/blob/master/l2cupge/CC/CC2_Pointeurs_2019.pdf)
+
+### Projets
+* **Projet 2020** : [Share Things](https://github.com/truillet/ups/blob/master/l2cupge/CC/Projet_Info_2020.pdf)
+* **Projet 2019** : [On en a Gros (sur le compte) !](https://github.com/truillet/ups/blob/master/l2cupge/CC/Projet_Info_2019.pdf)
+* **Projet 2018** : [Réservations de ressources](https://github.com/truillet/ups/blob/master/l2cupge/CC/Projet_Info_2018.pdf)
+
+### Contrôles Terminaux
+* **Examen sur table** : [Examen 2019](https://github.com/truillet/ups/blob/master/l2cupge/CC/CT_Examen_L2CUPGE_2019_session1.pdf)

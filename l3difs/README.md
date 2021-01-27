@@ -102,8 +102,8 @@ Nous allons créer notre client dans le package _l3difs/client_ : [helloClient.j
 Compilons le code et exécutons-le
 ```
 cd src
-javac -cp .;%AXIS2_HOME%/lib/* ./src/l3difs/*.java
-javac -cp .;%AXIS2_HOME%/lib/* ./src/l3difs/client/*.java
+javac -cp .;%AXIS2_HOME%/lib/* ./l3difs/*.java
+javac -cp .;%AXIS2_HOME%/lib/* ./l3difs/client/*.java
 # Exécuter le code 
 java -cp .;%AXIS2_HOME%/lib/* l3difs.client.helloClient
 ```

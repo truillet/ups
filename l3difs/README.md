@@ -10,7 +10,7 @@
 * configurez la variable d'environnement __AXIS2_HOME__ afin de pointer vers le chemin d'installation d'Axis
 * ajoutez à la variable __PATH__ le chemin _%AXIS2_HOME/bin%_
 * sur Xampp, lancez le serveur Tomcat. Vérifiez que tout fonctionne en ouvrant une page du navigateur avec l'URL http://locahost:8080, allez dans 
-* modifiez maintenant le fichier tomcat_users.xml (qui se situe sur "C:/xampp/tomcat/conf"
+* modifiez maintenant le fichier _tomcat_users.xml_ (qui se situe sur "_C:/xampp/tomcat/conf_"
 
 Ajoutez les lignes suivantes :
 ```<tomcat-users ...>
@@ -70,7 +70,7 @@ Il suffit maintenant de compiler les sources, créer l'archive Axis2 et la dépl
 javac l3difs/*.java
 
 # créer l'archive aar
-jar cvf helloService.aar
+jar cvf helloService.aar *
 ```
 Déplacez le fichier __helloService.aar__ ([archive .aar ici](https://github.com/truillet/ups/blob/master/l3difs/code/helloService.aar) et [fichiers sources là](https://github.com/truillet/ups/blob/master/l3difs/code/helloService.zip)) dans le répertoire _C:/xampp/tomcat/webapps/axis2/WEB-INF/services_ 
 Arrêtez/relancer le service tomcat.

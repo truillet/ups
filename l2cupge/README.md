@@ -7,6 +7,14 @@
 * [Pointer Cheat Sheet](https://c-for-dummies.com/caio/pointer-cheatsheet.php)
 * [Installer le sous-sytème ubuntu sous windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
+```
+# sous WSL 2, lancer d'abrd un serveur X comme VcXsrv
+# (N'oubliez pas de cliquer sur l'option "Disable access control")
+# définir les variables d'neviornnent DISPLAY et LIBGL_ALWAYS_INDIRECT (à mettre dans le fichier .bashrc)
+export DISPLAY=$(awk '/nameserver / {print $2; exit}' /etc/resolv.conf 2>/dev/null):0
+export LIBGL_ALWAYS_INDIRECT=1
+```
+
 ## Travaux Pratiques
 [Eléments sur le déroulement du semestre](https://github.com/truillet/ups/blob/master/l2cupge/TP/infos_L2CUPGE.pdf)
 

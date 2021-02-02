@@ -8,9 +8,9 @@
 * [Installer le sous-sytème ubuntu sous windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
 ```
-# sous WSL 2, lancer d'abrd un serveur X comme VcXsrv
+# sous WSL 2, lancer d'abord un serveur X comme VcXsrv
 # (N'oubliez pas de cliquer sur l'option "Disable access control")
-# définir les variables d'neviornnent DISPLAY et LIBGL_ALWAYS_INDIRECT (à mettre dans le fichier .bashrc)
+# définir les variables d'environnement DISPLAY et LIBGL_ALWAYS_INDIRECT (à mettre dans le fichier .bashrc)
 export DISPLAY=$(awk '/nameserver / {print $2; exit}' /etc/resolv.conf 2>/dev/null):0
 export LIBGL_ALWAYS_INDIRECT=1
 ```

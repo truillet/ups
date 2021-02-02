@@ -10,6 +10,8 @@
 ## Travaux Pratiques
 [Eléments sur le déroulement du semestre](https://github.com/truillet/ups/blob/master/l2cupge/TP/infos_L2CUPGE.pdf)
 
+[enum, union et typedef en langage C](https://github.com/truillet/ups/blob/master/l2cupge/TP/types_avances_C.pdf)
+
 * **TP 1** : [prise en main](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP1_Prise_en_main.pdf) et [solution](https://github.com/truillet/ups/blob/master/l2cupge/TP/solutions/sum.c) (2021)
 * **TP 2** : [utilisation de structure simple](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP2_Structure_Simple.pdf) et [solution](https://github.com/truillet/ups/blob/master/l2cupge/TP/solutions/jeucarte.c) (2021)
 * **TP 3 & 4** : [exploration de labyrinthes](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP3-4_Exploration.pdf) et [début de solution]() (2021)

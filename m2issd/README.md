@@ -2,19 +2,24 @@
 
 ## Cours
 * [Introduction Générale](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_Generale.pdf)
+<!--
 * [Introduction to Python](https://github.com/truillet/ups/blob/master/m2issd/cours/python.pdf)
 * [1 - Reconnaissance (OSINT)](https://github.com/truillet/ups/blob/master/m2issd/cours/OSINT_Reconnaissance.pdf)
 * [2 - Scanning](https://github.com/truillet/ups/blob/master/m2issd/cours/scanning.pdf)
 * [3 - Gaining, Maintaining access & covering tracks](https://github.com/truillet/ups/blob/master/m2issd/cours/Gaining%20Access.pdf)
-
+-->
 ## Travaux Dirigés
-* **TP1** : [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/TP1_BUSINT.pdf)
+
+* **TP1** :[TCP/IP]()
+* 
+* **TP2** : [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_BUSINT.pdf)
    * [Google Dorks](https://www.exploit-db.com/google-hacking-database)
+<!--
 * **TP2** : [Cryptographie](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_Cryptographie.1.7.pdf)
    * stéganographie : un article sur [medium.com](https://medium.com/@z3roTrust/the-threat-of-digital-steganography-cloaked-malware-to-u-s-critical-infrastructure-systems-f0a8eb81a9e8)
 * **TP3** : [Python et le framework scapy](https://github.com/truillet/ups/blob/master/m2issd/td/TP3_Python_Scapy.pdf)
    * articles de GNU Linux Mag : [partie 1](https://www.gnulinuxmag.com/scapy-le-couteau-suisse-python-pour-le-reseau-partie-1-2/) et [partie 2](https://www.gnulinuxmag.com/scapy-le-couteau-suisse-python-pour-le-reseau-partie-2-2/)
-
+-->
 ## Quelques liens
 ### outils
 * [';--have i been pwned?](https://haveibeenpwned.com)

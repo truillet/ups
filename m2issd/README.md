@@ -10,11 +10,10 @@
 -->
 ## Travaux Dirigés
 
-* **TP1** :[TCP/IP](https://github.com/truillet/ups/blob/master/m2issd/td/TP1_TCP_IP.pdf)
-<!-- 
+* **TP1** : [TCP/IP](https://github.com/truillet/ups/blob/master/m2issd/td/TP1_TCP_IP.pdf) 
 * **TP2** : [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_BUSINT.pdf)
    * [Google Dorks](https://www.exploit-db.com/google-hacking-database)
-
+<!--
 * **TP2** : [Cryptographie](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_Cryptographie.1.7.pdf)
    * stéganographie : un article sur [medium.com](https://medium.com/@z3roTrust/the-threat-of-digital-steganography-cloaked-malware-to-u-s-critical-infrastructure-systems-f0a8eb81a9e8)
 * **TP3** : [Python et le framework scapy](https://github.com/truillet/ups/blob/master/m2issd/td/TP3_Python_Scapy.pdf)

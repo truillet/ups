@@ -2,11 +2,12 @@
 
 ## Cours
 * [Introduction Générale](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_Generale.pdf)
-<!--
-* [Introduction to Python](https://github.com/truillet/ups/blob/master/m2issd/cours/python.pdf)
 * [1 - Reconnaissance (OSINT)](https://github.com/truillet/ups/blob/master/m2issd/cours/OSINT_Reconnaissance.pdf)
+<!--
 * [2 - Scanning](https://github.com/truillet/ups/blob/master/m2issd/cours/scanning.pdf)
 * [3 - Gaining, Maintaining access & covering tracks](https://github.com/truillet/ups/blob/master/m2issd/cours/Gaining%20Access.pdf)
+
+* [Introduction to Python](https://github.com/truillet/ups/blob/master/m2issd/cours/python.pdf)
 -->
 ## Travaux Dirigés
 

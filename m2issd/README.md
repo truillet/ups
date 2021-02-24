@@ -43,5 +43,5 @@
 
 ### Tutoriels, Guides, ...
 * [Guide in SSH Tunneling](https://www.hackingarticles.in/comprehensive-guide-on-ssh-tunneling)
-* [Guide pour réaliser un Plan de Continuité d'Actuvuté](http://www.sgdsn.gouv.fr/uploads/2016/10/guide-pca-sgdsn-110613-normal.pdf)
+* [Guide pour réaliser un Plan de Continuité d'Activité](http://www.sgdsn.gouv.fr/uploads/2016/10/guide-pca-sgdsn-110613-normal.pdf)
 * [The Incident Response Hierarchy of Needs](https://github.com/swannman/ircapabilities)

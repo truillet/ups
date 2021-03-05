@@ -26,8 +26,10 @@ export LIBGL_ALWAYS_INDIRECT=1
 * **TP 5** : [compilation séparée](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP5_Compilation_Separee.pdf) et [solution](https://github.com/truillet/ups/blob/master/l2cupge/TP/solutions/compilation_separee.zip)
 * **TP 6 & 7** : [Graphes - partie 1](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP6-7_Graphes1.pdf) et [début de solution](https://github.com/truillet/ups/blob/master/l2cupge/TP/solutions/Graphes_LC.zip)
 * **TP 8 & 9** : [Graphes - partie 2](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP8-9_Graphes2.pdf)
-* **TP bonus 1** : [arduino](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP10_Arduino.pdf) 
-* **TP bonus 2** : [JNI - articuler java et langage C](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP11_JNI_C.pdf)
+* **TP 10** : [JNI - articuler java et langage C](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP10_JNI_C.pdf)
+
+* **TP bonus 1** : [arduino]() 
+* **TP bonus 2** : [un middleware pour l'interaction]() 
 
 ### Eléments
 __installer Java OpenJDK (téléchargement des paquets)__

@@ -34,7 +34,7 @@ export LIBGL_ALWAYS_INDIRECT=1
 ### Eléments
 __installer Java OpenJDK (téléchargement des paquets)__
 ```
-sudo apt install openjdk-8-jdk-headless
+sudo apt install openjdk-14-jdk-headless
 ```
 
 __gcc__

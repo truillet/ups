@@ -14,7 +14,7 @@
 * **TP1** : [TCP/IP](https://github.com/truillet/ups/blob/master/m2issd/td/TP1_TCP_IP.pdf) 
 * **TP2** : [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_BUSINT.pdf)
    * [Google Dorks](https://www.exploit-db.com/google-hacking-database)
-* **TP3** : Python & scapy
+* **TP3** : [Python & scapy](https://github.com/truillet/ups/blob/master/m2issd/td/TP3_Python_Scapy.pdf)
    * [article de GNU Linux Mag](https://connect.ed-diamond.com/GNU-Linux-Magazine/GLMFHS-090/Scapy-le-couteau-suisse-Python-pour-le-reseau)
 * **TP4** : Initiation à la Sécurité Informatique
 <!--

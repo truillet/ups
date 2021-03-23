@@ -4,20 +4,23 @@
 * [Introduction Générale](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_Generale.pdf)
 * [1 - Reconnaissance (OSINT)](https://github.com/truillet/ups/blob/master/m2issd/cours/OSINT_Reconnaissance.pdf)
 * [2 - Scanning](https://github.com/truillet/ups/blob/master/m2issd/cours/Scanning.pdf)
-* [3- Gaining Access]()
-* [Introduction to Python]()
-
+* [3- Gaining Access](https://github.com/truillet/ups/blob/master/m2issd/cours/Gaining%20Access.pdf)
+* [Introduction to Python](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_Python.pdf)  
+   * [Code Cesar](https://github.com/truillet/ups/blob/master/m2issd/code/ROT13.py)
+   * [Code OACI et sythèse vocale](https://github.com/truillet/ups/blob/master/m2issd/code/OACI.zip)
+  
 ## Travaux Dirigés
 
 * **TP1** : [TCP/IP](https://github.com/truillet/ups/blob/master/m2issd/td/TP1_TCP_IP.pdf) 
 * **TP2** : [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_BUSINT.pdf)
    * [Google Dorks](https://www.exploit-db.com/google-hacking-database)
-* **TP3** : 
+* **TP3** : Python & scapy
+   * [article de GNU Linux Mag](https://connect.ed-diamond.com/GNU-Linux-Magazine/GLMFHS-090/Scapy-le-couteau-suisse-Python-pour-le-reseau)
+* **TP4** : Initiation à la Sécurité Informatique
 <!--
 * **TP2** : [Cryptographie](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_Cryptographie.1.7.pdf)
    * stéganographie : un article sur [medium.com](https://medium.com/@z3roTrust/the-threat-of-digital-steganography-cloaked-malware-to-u-s-critical-infrastructure-systems-f0a8eb81a9e8)
-* **TP3** : [Python et le framework scapy](https://github.com/truillet/ups/blob/master/m2issd/td/TP3_Python_Scapy.pdf)
-   * articles de GNU Linux Mag : [partie 1](https://www.gnulinuxmag.com/scapy-le-couteau-suisse-python-pour-le-reseau-partie-1-2/) et [partie 2](https://www.gnulinuxmag.com/scapy-le-couteau-suisse-python-pour-le-reseau-partie-2-2/)
+ 
 -->
 ## Quelques liens
 ### outils

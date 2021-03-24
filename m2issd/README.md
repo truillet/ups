@@ -17,6 +17,7 @@
 * **TP3** : [Python & scapy](https://github.com/truillet/ups/blob/master/m2issd/td/TP3_Python_Scapy.pdf)
    * [article de GNU Linux Mag](https://connect.ed-diamond.com/GNU-Linux-Magazine/GLMFHS-090/Scapy-le-couteau-suisse-Python-pour-le-reseau)
 * **TP4** : Initiation à la Sécurité Informatique
+   * [Rowbot's PenTest Notes](https://guide.offsecnewbie.com/shells)
 <!--
 * **TP2** : [Cryptographie](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_Cryptographie.1.7.pdf)
    * stéganographie : un article sur [medium.com](https://medium.com/@z3roTrust/the-threat-of-digital-steganography-cloaked-malware-to-u-s-critical-infrastructure-systems-f0a8eb81a9e8)

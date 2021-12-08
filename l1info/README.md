@@ -1,8 +1,8 @@
 # UE FabNum - Fabrication Numérique
 
-## tips et outils 
+## Tips et outils 
 * [Se connecter au réseau wifi eduroam](https://cat.eduroam.org)
-* WSL - **W**indows **S**ubsystem for **L**inux
+* [installer WSL - **W**indows **S**ubsystem for **L**inux](https://docs.microsoft.com/fr-fr/windows/wsl/install)
 
 ## <img src="https://github.com/truillet/upssitech/blob/master/SRI/1A/Code/Processing_2021_logo.png" width=64> [Processing.org](https://www.processing.org)
 * [support de présentation Processing](https://github.com/truillet/ups/blob/master/l1info/supports/processing.pdf)

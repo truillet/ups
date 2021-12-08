@@ -8,12 +8,17 @@
 * [support de présentation Processing](https://github.com/truillet/ups/blob/master/l1info/supports/processing.pdf)
 * [les exemples de base](https://github.com/truillet/ups/blob/master/l1info/code/exercices_processing.zip)
 
+## micro:bit
+
+
 ## arduino.cc
 * [support de présentation arduino](https://github.com/truillet/ups/blob/master/l1info/supports/arduino.pdf)
 * les exemples de base
 * [exemple mêlant arduino et processing](https://github.com/truillet/ups/blob/master/l1info/code/arduino_processing.zip)
 
 ## Raspberry PI
-
+* principes généraux et installation
+* Raspberry pinout
+* rapsberry pico
 
 ## Python / tkinter : interface graphique pour Python

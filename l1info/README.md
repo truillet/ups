@@ -1,6 +1,6 @@
-# UE FabNum
+# UE FabNum - Fabrication Numérique
 
-## des outils 
+## tips et outils 
 * [Se connecter au réseau wifi eduroam](https://cat.eduroam.org)
 * WSL - Windos Sub System
 

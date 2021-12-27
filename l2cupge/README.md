@@ -1,6 +1,11 @@
 # Structures de données / Langage C
+[Eléments sur le déroulement du semestre](https://github.com/truillet/ups/blob/master/l2cupge/TP/infos_L2CUPGE.pdf)
 
-## Quelques liens 
+## Cours
+* [Eléments introductifs sur les structures de données]()
+* [enum, union et typedef en langage C](https://github.com/truillet/ups/blob/master/l2cupge/TP/types_avances_C.pdf)
+
+### Quelques liens 
 
 * D. Ritchie, [The Development of the C Language](https://dl.acm.org/doi/10.1145/155360.155580), ACM SIGPLAN Notices, Volume 28, n° 3, March 1993, pp. 201-208
 * [Quick and Dirty Guide to C](https://courses.cs.washington.edu/courses/cse351/14sp/sections/1/Cheatsheet-c.pdf)
@@ -18,9 +23,6 @@ export LIBGL_ALWAYS_INDIRECT=1
 ```
 
 ## Travaux Pratiques
-[Eléments sur le déroulement du semestre](https://github.com/truillet/ups/blob/master/l2cupge/TP/infos_L2CUPGE.pdf)
-
-[enum, union et typedef en langage C](https://github.com/truillet/ups/blob/master/l2cupge/TP/types_avances_C.pdf)
 
 * **TP 1** : [prise en main](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP1_Prise_en_main.pdf) et [solution](https://github.com/truillet/ups/blob/master/l2cupge/TP/solutions/sum.c) (2021)
 * **TP 2** : [utilisation de structure simple](https://github.com/truillet/ups/blob/master/l2cupge/TP/TP2_Structure_Simple.pdf) et [solution](https://github.com/truillet/ups/blob/master/l2cupge/TP/solutions/jeucarte.c) (2021)

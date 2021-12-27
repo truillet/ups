@@ -2,7 +2,7 @@
 [Eléments sur le déroulement du semestre](https://github.com/truillet/ups/blob/master/l2cupge/Cours/infos_L2CUPGE.pdf)
 
 ## Cours
-* [Eléments introductifs sur les structures de données]()
+* [Eléments introductifs sur les structures de données](https://github.com/truillet/ups/blob/master/l2cupge/Cours/introduction_SdD.pdf)
 * [enum, union et typedef en langage C](https://github.com/truillet/ups/blob/master/l2cupge/TP/types_avances_C.pdf)
 
 ### Quelques liens 

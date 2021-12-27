@@ -2,11 +2,15 @@
 
 ## Cours
 * [Interaction vocale en entrée et sortie](https://github.com/truillet/ups/blob/master/m2ihm/Cours/I_V(IO)_Master_2_8.pdf)
+* **[GrXML pour SAPI 5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/GrXML.pdf)**
+* **[Speech Synthesis Markup Language - SSML](https://www.w3.org/TR/speech-synthesis11)**
+
 
 ## Travaux Pratiques
-* **TP** [Interaction vocale](https://github.com/truillet/ups/blob/master/m2ihm/TP/TP1_interaction_vocale_2.1.pdf)
+* **TP1** [Interaction vocale](https://github.com/truillet/ups/blob/master/m2ihm/TP/TP1_interaction_vocale.pdf)
+* **TP2** [Multiodalité en sortie]()
 
- **Les outils utilisés dans le TP** : Agent de reconnaissance vocale [sra5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/sra5.zip), agent de synthèse vocale [ppilot5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/ppilot5.zip), outil de supervision ivy [Probe](https://github.com/truillet/ivy/blob/master/code/Probe.zip) (lien vers le --> [bus ivy](https://github.com/truillet/ivy) <--)
+  * **Les outils utilisés dans le TP** : Agent de reconnaissance vocale [sra5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/sra5.zip), agent de synthèse vocale [ppilot5 v 3.3](https://github.com/truillet/ivy/blob/master/agents/ppilot5_3.3.zip), outil de supervision ivy [Probe](https://github.com/truillet/ivy/blob/master/code/Probe.zip) ou [visionneur](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Outils/visionneur_1_2.zip)
  
 _Exemple de code Processing permettant la reconnaissance vocale avec Google Chrome_ : **[RecoChrome](https://github.com/truillet/international/blob/master/utt/code/RecoChrome.zip)**
 

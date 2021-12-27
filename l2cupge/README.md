@@ -1,5 +1,5 @@
 # Structures de données / Langage C
-[Eléments sur le déroulement du semestre](https://github.com/truillet/ups/blob/master/l2cupge/TP/infos_L2CUPGE.pdf)
+[Eléments sur le déroulement du semestre](https://github.com/truillet/ups/blob/master/l2cupge/Cours/infos_L2CUPGE.pdf)
 
 ## Cours
 * [Eléments introductifs sur les structures de données]()

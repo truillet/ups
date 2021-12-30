@@ -7,8 +7,8 @@ Enfin, ces projets ont participé dans le concours [T'Hacka Voir](http://www.ija
 * Les [photos des projets](https://goo.gl/photos/ziiTxKuK3US1Zgwo6) 2017		
 * Les [photos des projets](https://photos.app.goo.gl/4vy6OGd5W74osKal1) 2018
 * Les [photos des projets](https://photos.app.goo.gl/YDe1hAeWh82qXuxS6) 2019
-* Les photos des projets 2020
-* Les photos des projets 2021
+* ~~Les photos des projets 2020~~ (cause confinement, projets pas arrivés à terme)
+* Les [photos des projets](https://photos.app.goo.gl/aM46jGBa2pTGjJdQ7) 2021
 
             
 ## Tips et outils 

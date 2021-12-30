@@ -1,5 +1,10 @@
 # UE FabNum - Fabrication Numérique
+Cet enseignement est en lien étroit avec le [FabLab](http://campusfab.univ-tlse3.fr) de l'université qui metà disposition son matériel et logiciels :  imprimantes 3D, découpeuse laser, machines CNC et systèmes électroniques (arduino, raspberry Pi, ...).
+Ces projets se sont effectués en 2016 et 2017 en collaboration avec le laboratoire commun IRIT/IJA "Cherchons Pour Voir"  qui permet à des professionnels de l'institut (enseignants, transcripteurs, ergothérapeutes, …) de proposer des projets à destination d'enfants en situation de handicap.							
+Outre ces différents acteurs, les doctorants, ingénieurs et chercheurs de l'équipe ELIPSE/IRIT  sont consultants techniques pour les différents groupes constitués.
+Enfin, ces projets ont participé dans le concours [T'Hacka Voir](http://www.ijatoulouse.org/thacka-voir-2017) organisé par ["Cherchons Pour Voir"](http://cherchonspourvoir.org)
 
+            
 ## Tips et outils 
 * [Se connecter au réseau wifi eduroam](https://cat.eduroam.org)
 * [installer WSL - **W**indows **S**ubsystem for **L**inux](https://docs.microsoft.com/fr-fr/windows/wsl/install)

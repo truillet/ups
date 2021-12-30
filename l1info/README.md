@@ -4,6 +4,11 @@ Ces projets se sont effectués en 2016 et 2017 en collaboration avec le laborato
 Outre ces différents acteurs, les doctorants, ingénieurs et chercheurs de l'équipe ELIPSE/IRIT  sont consultants techniques pour les différents groupes constitués.
 Enfin, ces projets ont participé dans le concours [T'Hacka Voir](http://www.ijatoulouse.org/thacka-voir-2017) organisé par ["Cherchons Pour Voir"](http://cherchonspourvoir.org)
 
+* Les <a href="./docs/TKV2.pdf" target="_blank">projets</a> et les<a href="https://goo.gl/photos/ziiTxKuK3US1Zgwo6" target="_blank"> photos des projets</a> 2017		
+* Les projets et les <a href="https://photos.app.goo.gl/4vy6OGd5W74osKal1" target="_blank">photos des projets</a> 2018
+* Les projets et les <a href="https://photos.app.goo.gl/YDe1hAeWh82qXuxS6" target="_blank">photos des projets</a> 2019
+* Les projets et les <a href="" target="_blank">photos des projets</a> 2020
+
             
 ## Tips et outils 
 * [Se connecter au réseau wifi eduroam](https://cat.eduroam.org)

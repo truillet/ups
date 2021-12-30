@@ -15,14 +15,15 @@ Enfin, ces projets ont participé dans le concours [T'Hacka Voir](http://www.ija
 * [Se connecter au réseau wifi eduroam](https://cat.eduroam.org)
 * [installer WSL - **W**indows **S**ubsystem for **L**inux](https://docs.microsoft.com/fr-fr/windows/wsl/install)
 
-## <img src="https://github.com/truillet/upssitech/blob/master/SRI/1A/Code/Processing_2021_logo.png" width=64> [Processing.org](https://www.processing.org)
+## Les langages et outils utilisés
+### <img src="https://github.com/truillet/upssitech/blob/master/SRI/1A/Code/Processing_2021_logo.png" width=64> [Processing.org](https://www.processing.org)
 * [support de présentation Processing](https://github.com/truillet/ups/blob/master/l1info/supports/processing.pdf)
 * [les exemples de base](https://github.com/truillet/ups/blob/master/l1info/code/exercices_processing.zip)
 
-## micro:bit
+### micro:bit
 
 
-## arduino.cc
+### arduino.cc
 * [support de présentation arduino](https://github.com/truillet/ups/blob/master/l1info/supports/arduino.pdf)
 * les exemples de base
 * [exemple mêlant arduino et processing](https://github.com/truillet/ups/blob/master/l1info/code/arduino_processing.zip)
@@ -32,10 +33,10 @@ Enfin, ces projets ont participé dans le concours [T'Hacka Voir](http://www.ija
 * Raspberry pinout
 * rapsberry pico
 
-## Python / tkinter : interface graphique pour Python
+### Python / tkinter : interface graphique pour Python
 
 
-## Python / guizero : interface graphique pour Python
+### Python / guizero : interface graphique pour Python
 
 
 ## Publications en relation avec l'UE

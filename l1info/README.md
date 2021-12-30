@@ -5,9 +5,10 @@ Outre ces différents acteurs, les doctorants, ingénieurs et chercheurs de l'é
 Enfin, ces projets ont participé dans le concours [T'Hacka Voir](http://www.ijatoulouse.org/thacka-voir-2017) organisé par ["Cherchons Pour Voir"](http://cherchonspourvoir.org)
 
 * Les <a href="./docs/TKV2.pdf" target="_blank">projets</a> et les<a href="https://goo.gl/photos/ziiTxKuK3US1Zgwo6" target="_blank"> photos des projets</a> 2017		
-* Les projets et les <a href="https://photos.app.goo.gl/4vy6OGd5W74osKal1" target="_blank">photos des projets</a> 2018
-* Les projets et les <a href="https://photos.app.goo.gl/YDe1hAeWh82qXuxS6" target="_blank">photos des projets</a> 2019
-* Les projets et les <a href="" target="_blank">photos des projets</a> 2020
+* Les <a href="https://photos.app.goo.gl/4vy6OGd5W74osKal1" target="_blank">photos des projets</a> 2018
+* Les <a href="https://photos.app.goo.gl/YDe1hAeWh82qXuxS6" target="_blank">photos des projets</a> 2019
+* Les <a href="" target="_blank">photos des projets</a> 2020
+* Les photos des projts 2021
 
             
 ## Tips et outils 
@@ -35,3 +36,10 @@ Enfin, ces projets ont participé dans le concours [T'Hacka Voir](http://www.ija
 
 
 ## Python / guizero : interface graphique pour Python
+
+
+## Publications en relation avec l'UE
+* <a href="https://doi.org/10.1007/978-3-319-58706-6_42" target="_blank">Giraud S., Truillet P., Gaildrat V., Jouffrais C. (2017) "DIY" Prototyping of Teaching Materials for Visually Impaired Children: Usage and Satisfaction of Professionals.</a>, In: Antona M., Stephanidis C. (eds) Universal Access in Human–Computer Interaction. Design and Development Approaches and Methods. UAHCI 2017. Lecture Notes in Computer Science, vol 10277. Springer	
+* Alvarado S., Jessel N., Truillet Ph., Gaildrat V. (2018), A reproducible experiment towards the accessibility of a geographical map. In: 16th International Conference on Computer Helping People with Special Needs, July 11-13, 2018
+* Marco J.-B., Baptiste-Jessel N., Truillet Ph. (2018), TaBGO : Programmation par blocs tangibles in IHM 2018, Brest, France, 23-26 October 2018, pp. 179-185
+				

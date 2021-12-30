@@ -20,23 +20,21 @@ Enfin, ces projets ont participé dans le concours [T'Hacka Voir](http://www.ija
 * [support de présentation Processing](https://github.com/truillet/ups/blob/master/l1info/supports/processing.pdf)
 * [les exemples de base](https://github.com/truillet/ups/blob/master/l1info/code/exercices_processing.zip)
 
-### micro:bit
+### Python / tkinter : interface graphique pour Python
 
+### Python / guizero : interface graphique pour Python
+
+### micro:bit
 
 ### arduino.cc
 * [support de présentation arduino](https://github.com/truillet/ups/blob/master/l1info/supports/arduino.pdf)
 * les exemples de base
 * [exemple mêlant arduino et processing](https://github.com/truillet/ups/blob/master/l1info/code/arduino_processing.zip)
 
-## Raspberry PI
+### Raspberry PI
 * principes généraux et installation
 * Raspberry pinout
 * rapsberry pico
-
-### Python / tkinter : interface graphique pour Python
-
-
-### Python / guizero : interface graphique pour Python
 
 
 ## Publications en relation avec l'UE

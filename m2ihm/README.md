@@ -3,6 +3,7 @@
 ## Cours
 * [Interaction vocale en entrée et sortie](https://github.com/truillet/ups/blob/master/m2ihm/Cours/I_V(IO)_Master_2_8.pdf)
 * **[GrXML pour SAPI 5](https://github.com/truillet/ups/blob/master/m2ihm/Cours/GrXML.pdf)**
+   * [Spécification grXML](https://www.w3.org/TR/speech-grammar)
 * **[ssml pour SAPI 5](https://github.com/truillet/ups/blob/master/m2ihm/Cours/ssml.pdf)** 
    * [Speech Synthesis Markup Language - SSML](https://www.w3.org/TR/speech-synthesis11)
 
@@ -20,7 +21,6 @@ _Exemple de code Processing permettant l'affichage de la reconnaissance vocale e
 _Exemple de grammaire grXML_ : **[grammar.grxml](https://github.com/truillet/ups/blob/master/m2ihm/TP/grammar.grxml)**
 
 ## Liens
-* [Spécification grXML](https://www.w3.org/TR/speech-grammar)
 * [Microsoft Speech Platform](https://docs.microsoft.com/en-us/previous-versions/office/developer/speech-technologies/hh361572(v%3doffice.14))
 * [MaryTTS](http://mary.dfki.de)
 * [speech recognition for Java/Processing](http://florianschulz.info/stt/)

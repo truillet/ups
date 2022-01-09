@@ -2,8 +2,9 @@
 
 ## Cours
 * [Interaction vocale en entrée et sortie](https://github.com/truillet/ups/blob/master/m2ihm/Cours/I_V(IO)_Master_2_8.pdf)
-* **[GrXML pour SAPI 5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/GrXML.pdf)**
-* **[Speech Synthesis Markup Language - SSML](https://www.w3.org/TR/speech-synthesis11)**
+* **[GrXML pour SAPI 5](https://github.com/truillet/ups/blob/master/m2ihm/Cours/GrXML.pdf)**
+* **[ssml pour SAPI 5](https://github.com/truillet/ups/blob/master/m2ihm/Cours/ssml.pdf)** 
+ * [Speech Synthesis Markup Language - SSML](https://www.w3.org/TR/speech-synthesis11)
 
 
 ## Travaux Pratiques

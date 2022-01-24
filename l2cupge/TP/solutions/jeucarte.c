@@ -23,7 +23,7 @@ void initjeu(Carte jeu[])
     int i,j,carte;
 	carte =0;
 	for (i=SEPT;i<=AS;i++) {
-		for (j=CARREAU;j<=COEUR;j++) {
+		for (j=TREFLE;j<=COEUR;j++) {
 			jeu[carte].c=j;
 			jeu[carte].v=i;
 			carte++;

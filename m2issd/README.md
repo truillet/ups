@@ -1,7 +1,7 @@
 # Sécurité
 
 ## Cours
-* [Introduction Générale](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_Generale.pdf)
+* Introduction Générale
 * [1 - Reconnaissance (OSINT)](https://github.com/truillet/ups/blob/master/m2issd/cours/OSINT_Reconnaissance.pdf)
 * [2 - Scanning](https://github.com/truillet/ups/blob/master/m2issd/cours/Scanning.pdf)
 * [3- Gaining Access](https://github.com/truillet/ups/blob/master/m2issd/cours/Gaining%20Access.pdf)

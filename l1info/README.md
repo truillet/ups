@@ -26,7 +26,7 @@ Enfin, ces projets ont participé dans le concours [T'Hacka Voir](http://www.ija
 ### Python / guizero : interface graphique pour Python
 
 ### micro:bit
-
+* introduction à micro:bit
 
 ### arduino.cc
 * [support de présentation arduino](https://github.com/truillet/ups/blob/master/l1info/supports/arduino.pdf)

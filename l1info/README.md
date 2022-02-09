@@ -7,7 +7,7 @@ Enfin, ces projets ont participé dans le concours [T'Hacka Voir](http://www.ija
 * Les [photos des projets](https://goo.gl/photos/ziiTxKuK3US1Zgwo6) 2017		
 * Les [photos des projets](https://photos.app.goo.gl/4vy6OGd5W74osKal1) 2018
 * Les [photos des projets](https://photos.app.goo.gl/YDe1hAeWh82qXuxS6) 2019
-* ~~Les photos des projets 2020~~ (cause confinement, projets pas arrivés à terme)
+* ~~Les photos des projets 2020~~ (cause confinement, les projets ne sont pas arrivés à terme)
 * Les [photos des projets](https://photos.app.goo.gl/aM46jGBa2pTGjJdQ7) 2021
 
             
@@ -21,10 +21,12 @@ Enfin, ces projets ont participé dans le concours [T'Hacka Voir](http://www.ija
 * [les exemples de base](https://github.com/truillet/ups/blob/master/l1info/code/exercices_processing.zip)
 
 ### Python / tkinter : interface graphique pour Python
-
+* [introduction à Tkinter](https://github.com/truillet/ups/blob/master/l1info/supports/tkinter.pdf) et les [exercices](https://github.com/truillet/ups/blob/master/l1info/code/tkinter.zip)
+ 
 ### Python / guizero : interface graphique pour Python
 
 ### micro:bit
+
 
 ### arduino.cc
 * [support de présentation arduino](https://github.com/truillet/ups/blob/master/l1info/supports/arduino.pdf)
@@ -33,7 +35,7 @@ Enfin, ces projets ont participé dans le concours [T'Hacka Voir](http://www.ija
 
 ### Raspberry PI
 * principes généraux et installation
-* Raspberry pinout
+* raspberry pinout
 * rapsberry pico
 
 

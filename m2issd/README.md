@@ -20,7 +20,7 @@
    * [article de GNU Linux Mag](https://connect.ed-diamond.com/GNU-Linux-Magazine/GLMFHS-090/Scapy-le-couteau-suisse-Python-pour-le-reseau)
 * **TP4** : [Initiation à la Sécurité Informatique](https://github.com/truillet/ups/blob/master/m2issd/td/TP4_Initiation_Securite.pdf)
    * [Rowbot's PenTest Notes](https://guide.offsecnewbie.com/shells)
-   * **stéganographie** : un article sur [medium.com](https://z3r0trust.medium.com/the-threat-of-digital-steganography-cloaked-malware-to-u-s-critical-infrastructure-systems-aff428db8ac7)
+   * **stéganographie** : un article sur [medium.com](https://z3r0trust.medium.com/the-threat-of-digital-steganography-cloaked-malware-to-u-s-critical-infrastructure-systems-c9ccff514029)
  
 -->
 ## Quelques liens

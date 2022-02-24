@@ -15,6 +15,7 @@
 * **TP1** : [TCP/IP](https://github.com/truillet/ups/blob/master/m2issd/td/TP1_TCP_IP.pdf) 
 * **TP2** : [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_BUSINT.pdf)
    * [Google Dorks](https://www.exploit-db.com/google-hacking-database)
+   * [DorkSearch.com](https://dorksearch.com)
 * **TP3** : [Python & scapy](https://github.com/truillet/ups/blob/master/m2issd/td/TP3_Python_Scapy.pdf)
    * [article de GNU Linux Mag](https://connect.ed-diamond.com/GNU-Linux-Magazine/GLMFHS-090/Scapy-le-couteau-suisse-Python-pour-le-reseau)
 * **TP4** : [Initiation à la Sécurité Informatique](https://github.com/truillet/ups/blob/master/m2issd/td/TP4_Initiation_Securite.pdf)
@@ -29,10 +30,12 @@
 * [p0f - passive OS fingerprinting](https://lcamtuf.coredump.cx/p0f3) (part of [Kali distribution](https://tools.kali.org/information-gathering/p0f))
 * [John The Ripper](https://www.openwall.com/john)
 * [Mimikatz](http://blog.gentilkiwi.com/mimikatz)
-* [some PoC ...](https://samy.pl)
+* [some PoC ...]
+  * (https://samy.pl)
 
 ### Alertes, menaces et avis de sécurité
 * [CERT-FR](https://www.cert.ssi.gouv.fr)
+* [Pwnkit - CVE-2021-4034]https://github.com/arthepsy/CVE-2021-4034) : pkexec (faille potentielle active depuis mai 2009)
 
 ### PenTest
 * [Metasploit](https://www.metasploit.com)

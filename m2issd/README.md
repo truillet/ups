@@ -6,7 +6,8 @@
 * [1 - Reconnaissance (OSINT)](https://github.com/truillet/ups/blob/master/m2issd/cours/OSINT_Reconnaissance.pdf) (2022)
 * [2 - Scanning](https://github.com/truillet/ups/blob/master/m2issd/cours/Scanning.pdf)
 * [3- Gaining Access](https://github.com/truillet/ups/blob/master/m2issd/cours/Gaining%20Access.pdf)
-* [Introduction to Python](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_Python.pdf)  
+* [Introduction aux Raspberry Pi](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_RPi.pdf) (2022)
+* [Introduction à Python](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_python.pdf) (2022)
    * [Code Cesar](https://github.com/truillet/ups/blob/master/m2issd/code/ROT13.py)
    * [Code OACI et sythèse vocale](https://github.com/truillet/ups/blob/master/m2issd/code/OACI.zip)
   

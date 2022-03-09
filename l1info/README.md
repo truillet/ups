@@ -22,6 +22,7 @@ Enfin, ces projets ont participé dans le concours [T'Hacka Voir](http://www.ija
 
 ### Python / tkinter : interface graphique pour Python
 * [introduction à Tkinter](https://github.com/truillet/ups/blob/master/l1info/supports/tkinter.pdf) et les [exercices](https://github.com/truillet/ups/blob/master/l1info/code/tkinter.zip)
+* [Lien vers documentation TKinter en français](http://tkinter.fdex.eu/index.html)
  
 ### Python / guizero : interface graphique pour Python
 

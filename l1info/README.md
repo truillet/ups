@@ -9,7 +9,7 @@ Enfin, ces projets ont participé dans le concours [T'Hacka Voir](http://www.ija
 * Les [photos des projets](https://photos.app.goo.gl/YDe1hAeWh82qXuxS6) 2019
 * ~~Les photos des projets 2020~~ (cause confinement, les projets ne sont pas arrivés à terme)
 * Les [photos des projets](https://photos.app.goo.gl/aM46jGBa2pTGjJdQ7) 2021
-
+* Les [photos des projets](https://photos.app.goo.gl/5idE69rDTeeKDa5CA) 2022
             
 ## Tips et outils 
 * [Se connecter au réseau wifi eduroam](https://cat.eduroam.org)

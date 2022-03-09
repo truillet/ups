@@ -23,8 +23,8 @@
 * **TP4** : [Python & librairie scapy](https://github.com/truillet/ups/blob/master/m2issd/td/TP4_Python_Scapy.pdf) (2022)
    * [article de GNU Linux Mag](https://connect.ed-diamond.com/GNU-Linux-Magazine/GLMFHS-090/Scapy-le-couteau-suisse-Python-pour-le-reseau)
 
-## Annales d'examen sur table
-* **[Sujet Examen 2021]**ttps://github.com/truillet/ups/blob/master/m2issd/annales/Exam_m2issd_20-21_UE8.pdf)
+## Annales d'examens sur table
+* **[Sujet Examen 2021](https://github.com/truillet/ups/blob/master/m2issd/annales/Exam_m2issd_20-21_UE8.pdf)**
 
 ## Quelques liens
 

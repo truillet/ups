@@ -22,6 +22,7 @@
    * **stéganographie** : un article sur [medium.com](https://z3r0trust.medium.com/the-threat-of-digital-steganography-cloaked-malware-to-u-s-critical-infrastructure-systems-c9ccff514029)
 * **TP4** : [Python & librairie scapy](https://github.com/truillet/ups/blob/master/m2issd/td/TP4_Python_Scapy.pdf) (2022)
    * [article de GNU Linux Mag](https://connect.ed-diamond.com/GNU-Linux-Magazine/GLMFHS-090/Scapy-le-couteau-suisse-Python-pour-le-reseau)
+   * * [Lien vers documentation TKinter (GUI) en français](http://tkinter.fdex.eu/index.html)
 
 ## Annales d'examens sur table
 * **[Sujet Examen 2021](https://github.com/truillet/ups/blob/master/m2issd/annales/Exam_m2issd_20-21_UE8.pdf)**

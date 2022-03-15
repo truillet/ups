@@ -40,8 +40,8 @@
 
 ### Alertes, menaces et avis de sécurité
 * [CERT-FR](https://www.cert.ssi.gouv.fr)
-* [Pwnkit - CVE-2021-4034]https://github.com/arthepsy/CVE-2021-4034) : pkexec (faille potentielle active depuis mai 2009)
-
+* [Pwnkit - CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034) : pkexec (faille potentielle active depuis mai 2009)
+* [Dirty - CVE-2022-0847](https://github.com/Mustafa1986/CVE-2022-0847-DirtyPipe-Exploit/blob/main/dirtypipe.c) : exploit Dirty Pipe présenté le 08/03/2022 
 ### PenTest
 * [Metasploit](https://www.metasploit.com)
 * [Kali Linux](https://www.kali.org)

@@ -70,7 +70,7 @@ gcc -S fichier.c # génère le code ASM fichier.s
 * **CC2** 
   * **2019** : [Listes](https://github.com/truillet/ups/blob/master/l2cupge/CC/CC2_Pointeurs_2019.pdf)
   * **2021** : [Suite et liste](https://github.com/truillet/ups/blob/master/l2cupge/CC/CC2_ExamenMachine_2021.pdf) 
-
+  * **2022** : *à venir*
 
 ### Projets
 * **Projet 2018** : [Réservations de ressources](https://github.com/truillet/ups/blob/master/l2cupge/CC/Projet_Info_2018.pdf)
@@ -82,3 +82,4 @@ gcc -S fichier.c # génère le code ASM fichier.s
 ### Contrôles Terminaux
 * **Examen sur table 2019** : [Examen 2019](https://github.com/truillet/ups/blob/master/l2cupge/CC/CT_Examen_L2CUPGE_2019_session1.pdf)
 * **Examen sur table 2021** : [Examen 2021](https://github.com/truillet/ups/blob/master/l2cupge/CC/CT_Examen_L2CUPGE_2021_session1.pdf)
+* **Examen sur table 2022** : *à venir*

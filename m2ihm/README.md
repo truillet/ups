@@ -2,14 +2,13 @@
 
 ## Cours
 * [Interaction vocale en entrée et sortie](https://github.com/truillet/ups/blob/master/m2ihm/Cours/I_V(IO)_Master_2_8.pdf)
-
 * **[GrXML pour SAPI 5](https://github.com/truillet/ups/blob/master/m2ihm/Cours/GrXML.pdf)**
    * [Spécification grXML](https://www.w3.org/TR/speech-grammar)
 * **[support SSML pour SAPI 5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/Memo/ssml.pdf)**
    * [Speech Synthesis Markup Language - SSML](https://www.w3.org/TR/speech-synthesis11) 
-   * autres liens "intéressants"
-    * [seeing with sound](https://www.seeingwithsound.com/webvoice/webvoice.htm) : un exemple de transmodalité 
-    * [Renault 25 et TTS](https://www.dailymotion.com/video/x2vt9b)
+* autres liens "intéressants"
+   * [seeing with sound](https://www.seeingwithsound.com/webvoice/webvoice.htm) : un exemple de transmodalité 
+   * [Renault 25 et TTS](https://www.dailymotion.com/video/x2vt9b)
 
 
 ## Travaux Pratiques

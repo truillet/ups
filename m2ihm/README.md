@@ -25,8 +25,9 @@ _Exemple de code Processing permettant l'affichage de la reconnaissance vocale e
 * **Les outils utilisés par les TP** : 
   * agent de reconnaissance vocale / Speech Recognizer agent [sra5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/sra5.zip)
   * agent de synthèse vocale / speech Synthesis agent [ppilot5 v 3.3](https://github.com/truillet/ivy/blob/master/agents/ppilot5_3.3.zip)
-  * agent d'affichage braille / braille display agent [Braille_display](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/Braille_display.zip)
+  * agent d'affichage braille / braille display agent [Braille_display](https://github.com/truillet/ups/blob/master/m2ihm/TP/Braille_display.zip)
   * outil de supervision ivy / ivy monitoring tool [Probe](https://github.com/truillet/ivy/blob/master/code/Probe.zip) ou / or [visionneur](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Outils/visionneur_1_2.zip) 
+  * [Toulouse.html](https://github.com/truillet/ups/blob/master/m2ihm/TP/Toulouse.html)
  
 
 ## Liens

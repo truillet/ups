@@ -10,24 +10,27 @@ Enfin, ces projets peuvent participer au  concours **[T'Hacka Voir](https://thac
 * Les [photos des projets](https://goo.gl/photos/ziiTxKuK3US1Zgwo6) 2017		
 * Les [photos des projets](https://photos.app.goo.gl/4vy6OGd5W74osKal1) 2018
 * Les [photos des projets](https://photos.app.goo.gl/YDe1hAeWh82qXuxS6) 2019
-* ~~Les photos des projets 2020~~ (cause confinement, les projets ne sont pas arrivés à terme)
+* ~~Les photos des projets 2020~~ (pour cause de confinement général, les projets ne sont malheureusement pas arrivés à terme)
 * Les [photos des projets](https://photos.app.goo.gl/aM46jGBa2pTGjJdQ7) 2021
 * Les [photos des projets](https://photos.app.goo.gl/5idE69rDTeeKDa5CA) 2022
+* Les photos des projets 2023
             
 ## Tips et outils 
 * [Se connecter au réseau wifi eduroam](https://cat.eduroam.org)
 * [installer WSL - **W**indows **S**ubsystem for **L**inux](https://learn.microsoft.com/fr-fr/windows/wsl/install)
 
 ## Les langages et outils utilisés
-### <img src="https://github.com/truillet/upssitech/blob/master/SRI/1A/Code/Processing_2021_logo.png" width=64> [Processing.org](https://www.processing.org)
-* [support de présentation Processing](https://github.com/truillet/ups/blob/master/l1info/supports/processing.pdf)
-* [les exemples de base](https://github.com/truillet/ups/blob/master/l1info/code/exercices_processing.zip)
 
 ### Python / tkinter : interface graphique pour Python
 * [introduction à Tkinter](https://github.com/truillet/ups/blob/master/l1info/supports/tkinter.pdf) et les [exercices](https://github.com/truillet/ups/blob/master/l1info/code/tkinter.zip)
 * [Lien vers documentation TKinter en français](http://tkinter.fdex.eu/index.html)
  
 ### Python / guizero : interface graphique pour Python
+
+### <img src="https://github.com/truillet/upssitech/blob/master/SRI/1A/Code/Processing_2021_logo.png" width=64> [Processing.org](https://www.processing.org)
+* [support de présentation Processing](https://github.com/truillet/ups/blob/master/l1info/supports/processing.pdf)
+* [les exemples de base](https://github.com/truillet/ups/blob/master/l1info/code/exercices_processing.zip)
+
 
 ### micro:bit
 * introduction à micro:bit

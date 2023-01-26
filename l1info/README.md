@@ -4,7 +4,7 @@ Cet enseignement est en lien étroit avec le [FabLab](http://campusfab.univ-tlse
 
 Ces projets s'effectuent en collaboration avec le laboratoire commun IRIT/IJA "Cherchons Pour Voir"  qui permet à des professionnels de l'institut (enseignants, transcripteurs, ergothérapeutes, …) de proposer des projets à destination d'enfants en situation de handicap.
 
-Enfin, ces projets peuvent participer au  concours *[T'Hacka Voir]*(https://thackavoir.fr) organisé par ["Cherchons Pour Voir"](http://cherchonspourvoir.org)
+Enfin, ces projets peuvent participer au  concours *[T'Hacka Voir]*(https://thackavoir.fr) organisé par ["Cherchons Pour Voir"](http://cherchonspourvoir.org) <img src="[https://github.com/truillet/upssitech/blob/master/logo_upssitech.png](https://github.com/truillet/ups/blob/master/l1info/projets/CPV.png)" width=100>
 
 ## Photos de projets des années précédentes
 * Les [photos des projets](https://goo.gl/photos/ziiTxKuK3US1Zgwo6) 2017		

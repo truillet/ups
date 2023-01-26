@@ -1,9 +1,12 @@
 # UE FabNum - Fabrication Numérique
-Cet enseignement est en lien étroit avec le [FabLab](http://campusfab.univ-tlse3.fr) de l'université qui metà disposition son matériel et logiciels :  imprimantes 3D, découpeuse laser, machines CNC et systèmes électroniques (arduino, raspberry Pi, ...).
-Ces projets se sont effectués en 2016 et 2017 en collaboration avec le laboratoire commun IRIT/IJA "Cherchons Pour Voir"  qui permet à des professionnels de l'institut (enseignants, transcripteurs, ergothérapeutes, …) de proposer des projets à destination d'enfants en situation de handicap.							
-Outre ces différents acteurs, les doctorants, ingénieurs et chercheurs de l'équipe ELIPSE/IRIT  sont consultants techniques pour les différents groupes constitués.
-Enfin, ces projets ont participé dans le concours [T'Hacka Voir](http://www.ijatoulouse.org/thacka-voir-2017) organisé par ["Cherchons Pour Voir"](http://cherchonspourvoir.org)
 
+Cet enseignement est en lien étroit avec le [FabLab](http://campusfab.univ-tlse3.fr) de l'université qui met à disposition son matériel et logiciels :  imprimantes 3D, découpeuse laser, machines CNC et systèmes électroniques (arduino, raspberry Pi, ...).
+
+Ces projets s'effectuent en collaboration avec le laboratoire commun IRIT/IJA "Cherchons Pour Voir"  qui permet à des professionnels de l'institut (enseignants, transcripteurs, ergothérapeutes, …) de proposer des projets à destination d'enfants en situation de handicap.
+
+Enfin, ces projets peuvent participer au  concours *[T'Hacka Voir]*(https://thackavoir.fr) organisé par ["Cherchons Pour Voir"](http://cherchonspourvoir.org)
+
+## Photos de projets des années précédentes
 * Les [photos des projets](https://goo.gl/photos/ziiTxKuK3US1Zgwo6) 2017		
 * Les [photos des projets](https://photos.app.goo.gl/4vy6OGd5W74osKal1) 2018
 * Les [photos des projets](https://photos.app.goo.gl/YDe1hAeWh82qXuxS6) 2019
@@ -13,7 +16,7 @@ Enfin, ces projets ont participé dans le concours [T'Hacka Voir](http://www.ija
             
 ## Tips et outils 
 * [Se connecter au réseau wifi eduroam](https://cat.eduroam.org)
-* [installer WSL - **W**indows **S**ubsystem for **L**inux](https://docs.microsoft.com/fr-fr/windows/wsl/install)
+* [installer WSL - **W**indows **S**ubsystem for **L**inux](https://learn.microsoft.com/fr-fr/windows/wsl/install)
 
 ## Les langages et outils utilisés
 ### <img src="https://github.com/truillet/upssitech/blob/master/SRI/1A/Code/Processing_2021_logo.png" width=64> [Processing.org](https://www.processing.org)

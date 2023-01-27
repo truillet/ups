@@ -47,7 +47,8 @@ Enfin, ces projets peuvent participer au  concours **[T'Hacka Voir](https://thac
 
 
 ## Publications en relation avec l'UE
-* <a href="https://doi.org/10.1007/978-3-319-58706-6_42" target="_blank">Giraud S., Truillet P., Gaildrat V., Jouffrais C. (2017) "DIY" Prototyping of Teaching Materials for Visually Impaired Children: Usage and Satisfaction of Professionals.</a>, In: Antona M., Stephanidis C. (eds) Universal Access in Human–Computer Interaction. Design and Development Approaches and Methods. UAHCI 2017. Lecture Notes in Computer Science, vol 10277. Springer	
-* Alvarado S., Jessel N., Truillet Ph., Gaildrat V. (2018), A reproducible experiment towards the accessibility of a geographical map. In: 16th International Conference on Computer Helping People with Special Needs, July 11-13, 2018
-* Marco J.-B., Baptiste-Jessel N., Truillet Ph. (2018), TaBGO : Programmation par blocs tangibles in IHM 2018, Brest, France, 23-26 October 2018, pp. 179-185
+* Giraud S., Truillet P., Gaildrat V., Jouffrais C. (2017) ["DIY" Prototyping of Teaching Materials for Visually Impaired Children: Usage and Satisfaction of Professionals](https://doi.org/10.1007/978-3-319-58706-6_42), In: Antona M., Stephanidis C. (eds) Universal Access in Human–Computer Interaction. Design and Development Approaches and Methods. UAHCI 2017. Lecture Notes in Computer Science, vol 10277. Springer	
+* Alvarado S., Jessel N., Truillet Ph., Gaildrat V. (2018), [A reproducible experiment towards the accessibility of a geographical map](https://link.springer.com/chapter/10.1007/978-3-319-94274-2_40#author-information). In: 16th International Conference on Computer Helping People with Special Needs, July 11-13, 2018
+* Marco J.-B., Baptiste-Jessel N., Truillet Ph. (2018), [TaBGO : Programmation par blocs tangibles](https://hal.science/hal-02181953) in IHM 2018, Brest, France, 23-26 October 2018, pp. 179-185
+* Truillet Ph., [Fablabs et "Do-it Yourself" : une révolution silencieuse ?](https://www.gendarmerie.interieur.gouv.fr/crgn/publications/les-notes-du-creogn/fablabs-et-do-it-yourself-une-revolution-silencieuse) in Notes du CREOGN, numéro 74, Juin 2022
 				

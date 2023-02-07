@@ -5,9 +5,12 @@
 * [Introduction Générale cyber-*](https://github.com/truillet/ups/blob/master/m2issd/cours/Cyber_Octobre2022.pdf) (2022)
 * [Robotique - le futur est presque parmi nous](https://github.com/truillet/ups/blob/master/m2issd/cours/Robotique_fevrier_2022.pdf) (2022)
 
-* [1 - Reconnaissance (OSINT)](https://github.com/truillet/ups/blob/master/m2issd/cours/OSINT_Reconnaissance.pdf) (2022)
-* [2 - Scanning](https://github.com/truillet/ups/blob/master/m2issd/cours/Scanning.pdf) (2022)
-* [3- Gaining Access](https://github.com/truillet/ups/blob/master/m2issd/cours/Gaining%20Access.pdf)
+* [1 - Reconnaissance (OSINT)](https://github.com/truillet/ups/blob/master/m2issd/cours/OSINT_Reconnaissance.pdf) (2023)
+   * Un jeu : [Sourcing Games: Games for Recruiters and Sourcers](https://sourcing.games)
+* [2 - Scanning](https://github.com/truillet/ups/blob/master/m2issd/cours/Scanning.pdf) (2023)
+<!--
+* [3- Gaining Access](https://github.com/truillet/ups/blob/master/m2issd/cours/Gaining_Access.pdf)
+-->
 * [Introduction aux Raspberry Pi](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_RPi.pdf) (2022)
 * [Introduction à Python](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_python.pdf) (2022)
    * [Code Cesar](https://github.com/truillet/ups/blob/master/m2issd/code/ROT13.py)
@@ -16,15 +19,20 @@
 ## Travaux Dirigés
 
 * **TP1** : [TCP/IP](https://github.com/truillet/ups/blob/master/m2issd/td/TP1_TCP_IP.pdf) (2022)
-* **TP2** : [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_BUSINT.pdf) (2022)
+* **TP2** : [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_BUSINT.pdf) (2023)
    * [Google Dorks](https://www.exploit-db.com/google-hacking-database)
    * [DorkSearch.com](https://dorksearch.com)
+* **TP3** : [Découverte de la topologie réseau]()
+   * [NMAP Cheat Sheet](https://www.stationx.net/nmap-cheat-sheet)
+
+<!--
 * **TP3** : [Initiation à la Sécurité Informatique](https://github.com/truillet/ups/blob/master/m2issd/td/TP3_Initiation_Securite.pdf) (2022)
    * [Rowbot's PenTest Notes](https://guide.offsecnewbie.com/shells)
    * **stéganographie** : un article sur [medium.com](https://z3r0trust.medium.com/the-threat-of-digital-steganography-cloaked-malware-to-u-s-critical-infrastructure-systems-c9ccff514029)
 * **TP4** : [Python & librairie scapy](https://github.com/truillet/ups/blob/master/m2issd/td/TP4_Python_Scapy.pdf) (2022)
    * [article de GNU Linux Mag](https://connect.ed-diamond.com/GNU-Linux-Magazine/GLMFHS-090/Scapy-le-couteau-suisse-Python-pour-le-reseau)
    * * [Lien vers documentation TKinter (GUI) en français](http://tkinter.fdex.eu/index.html)
+-->
 
 ## Annales d'examens sur table
 * **[Sujet Examen 2021](https://github.com/truillet/ups/blob/master/m2issd/annales/Exam_m2issd_20-21_UE8.pdf)**

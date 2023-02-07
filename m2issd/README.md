@@ -4,7 +4,6 @@
 * [Introduction aux réseaux](https://github.com/truillet/ups/blob/master/m2issd/cours/introduction_2023.pdf) (2022)
 * [Introduction Générale cyber-*](https://github.com/truillet/ups/blob/master/m2issd/cours/Cyber_Octobre2022.pdf) (2022)
 * [Robotique - le futur est presque parmi nous](https://github.com/truillet/ups/blob/master/m2issd/cours/Robotique_fevrier_2022.pdf) (2022)
-
 * [1 - Reconnaissance (OSINT)](https://github.com/truillet/ups/blob/master/m2issd/cours/OSINT_Reconnaissance.pdf) (2023)
    * Un jeu : [Sourcing Games: Games for Recruiters and Sourcers](https://sourcing.games)
 * [2 - Scanning](https://github.com/truillet/ups/blob/master/m2issd/cours/Scanning.pdf) (2023)
@@ -52,6 +51,7 @@
 * [CERT-FR](https://www.cert.ssi.gouv.fr)
 * [Pwnkit - CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034) : pkexec (faille potentielle active depuis mai 2009)
 * [Dirty Pipe - CVE-2022-0847](https://github.com/Mustafa1986/CVE-2022-0847-DirtyPipe-Exploit/blob/main/dirtypipe.c) : exploit Dirty Pipe présenté le 08/03/2022 
+
 ### PenTest
 * [Metasploit](https://www.metasploit.com)
 * [Kali Linux](https://www.kali.org)

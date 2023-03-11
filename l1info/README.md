@@ -13,7 +13,7 @@ Enfin, ces projets peuvent participer au  concours **[T'Hacka Voir](https://thac
 * ~~Les photos des projets 2020~~ (pour cause de confinement général, les projets ne sont malheureusement pas arrivés à terme)
 * Les [photos des projets](https://photos.app.goo.gl/aM46jGBa2pTGjJdQ7) 2021
 * Les [photos des projets](https://photos.app.goo.gl/5idE69rDTeeKDa5CA) 2022
-* Les photos des projets 2023
+* Les [photos des projets](https://photos.app.goo.gl/qbkTpKCmo7s3RnCS8) 2023
             
 ## Tips et outils 
 * [Se connecter au réseau wifi eduroam](https://cat.eduroam.org)
@@ -28,27 +28,26 @@ Enfin, ces projets peuvent participer au  concours **[T'Hacka Voir](https://thac
 ### Python / guizero : interface graphique pour Python
 
 ### <img src="https://github.com/truillet/upssitech/blob/master/SRI/1A/Code/Processing_2021_logo.png" width=64> [Processing.org](https://www.processing.org)
-* [support de présentation Processing](https://github.com/truillet/ups/blob/master/l1info/supports/processing.pdf)
+* [support de présentation Processing](https://github.com/truillet/ups/blob/master/l1info/supports/introduction_processing_ex.pdf)
 * [les exemples de base](https://github.com/truillet/ups/blob/master/l1info/code/exercices_processing.zip)
 
 
 ### micro:bit
-* introduction à micro:bit
+* [introduction à micro:bit](https://github.com/truillet/ups/blob/master/l1info/supports/microbit.pdf)
 
 ### arduino.cc
-* [support de présentation arduino](https://github.com/truillet/ups/blob/master/l1info/supports/arduino.pdf)
-* les exemples de base
+* [support de présentation arduino](https://github.com/truillet/ups/blob/master/l1info/supports/L1_arduino.pdf)
+* [les exemples de base](https://github.com/truillet/ups/blob/master/l1info/code/Processing_base.zip)
 * [exemple mêlant arduino et processing](https://github.com/truillet/ups/blob/master/l1info/code/arduino_processing.zip)
 
 ### Raspberry PI
-* principes généraux et installation
-* raspberry pinout
-* rapsberry pico
+* [principes généraux et installation](https://github.com/truillet/ups/blob/master/l1info/supports/Introduction_RPi.pdf)
+* [raspberry pinout](https://pinout.xyz)
+* [raspberry pico](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
 
 ## Publications en relation avec l'UE
 * Giraud S., Truillet P., Gaildrat V., Jouffrais C. (2017) ["DIY" Prototyping of Teaching Materials for Visually Impaired Children: Usage and Satisfaction of Professionals](https://doi.org/10.1007/978-3-319-58706-6_42), In: Antona M., Stephanidis C. (eds) Universal Access in Human–Computer Interaction. Design and Development Approaches and Methods. UAHCI 2017. Lecture Notes in Computer Science, vol 10277. Springer	
 * Alvarado S., Jessel N., Truillet Ph., Gaildrat V. (2018), [A reproducible experiment towards the accessibility of a geographical map](https://link.springer.com/chapter/10.1007/978-3-319-94274-2_40#author-information). In: 16th International Conference on Computer Helping People with Special Needs, July 11-13, 2018
 * Marco J.-B., Baptiste-Jessel N., Truillet Ph. (2018), [TaBGO : Programmation par blocs tangibles](https://hal.science/hal-02181953) in IHM 2018, Brest, France, 23-26 October 2018, pp. 179-185
-* Truillet Ph. (2022), [Fablabs et "Do-it Yourself" : une révolution silencieuse ?](https://www.gendarmerie.interieur.gouv.fr/crgn/publications/les-notes-du-creogn/fablabs-et-do-it-yourself-une-revolution-silencieuse) in Notes du CREOGN, numéro 74, Juin 2022
-				
+* Truillet Ph. (2022), [Fablabs et "Do-it Yourself" : une révolution silencieuse ?](https://www.gendarmerie.interieur.gouv.fr/crgn/publications/les-notes-du-creogn/fablabs-et-do-it-yourself-une-revolution-silencieuse) in Notes du CREOGN, numéro 74, Juin 2022				

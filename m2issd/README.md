@@ -24,7 +24,7 @@
    * **stéganographie** : [The Undetectable Cybersecurity Threat](https://builtin.com/cybersecurity/steganography)
 * **TP5** : [Python & librairie scapy](https://github.com/truillet/ups/blob/master/m2issd/td/TP5_Python_Scapy.pdf) (2023)
    * [article de GNU Linux Mag](https://connect.ed-diamond.com/GNU-Linux-Magazine/GLMFHS-090/Scapy-le-couteau-suisse-Python-pour-le-reseau)
-
+   * code [ROT13](https://github.com/truillet/ups/blob/master/m2issd/code/ROT13.py) et [OACI](https://github.com/truillet/ups/blob/master/m2issd/code/OACI.zip)
 
 ## Annales d'examens sur table
 * **[Sujet Examen 2021](https://github.com/truillet/ups/blob/master/m2issd/annales/Exam_m2issd_20-21_UE8.pdf)**

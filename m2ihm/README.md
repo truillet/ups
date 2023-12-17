@@ -1,7 +1,7 @@
 # Interaction vocale
 
 ## Cours
-* [Interaction vocale en entrée et sortie](https://github.com/truillet/ups/blob/master/m2ihm/Cours/I_V(IO)_Master_2_8.pdf)
+* [Interaction vocale en entrée et sortie](https://github.com/truillet/ups/blob/master/m2ihm/Cours/I_V(IO)_Master_2_9.pdf)
 * **[GrXML pour SAPI 5](https://github.com/truillet/ups/blob/master/m2ihm/Cours/GrXML.pdf)**
    * [Spécification grXML](https://www.w3.org/TR/speech-grammar)
 * **[support SSML pour SAPI 5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/Memo/ssml.pdf)**

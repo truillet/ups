@@ -1,5 +1,8 @@
 # Une application dirigée à la voix
 Nous souhaitons concevoir et réaliser une application **non-visuelle** (en *entrée* et en *sortie* incluant *parole* et éventuellement son -musique, messages enregistrés, etc.) permettant à un utilisateur **d’ajouter, retirer, manipuler des aliments affichés sur un écran afin de composer le contenu d’une assiette « gourmande » de dessert(s)**. (ex : café, thé, sucre, crème brûlée, profiteroles, ...)
+
+<img src="https://github.com/truillet/ups/blob/master/m2ihm/TP/ressources/triangle.png" align="center" width=400>
+
 La disposition physique des desserts fait partie du problème !
 Vous coderez **votre application dans le langage que <ins>vous désirez</ins> :) (l’usage de Processing.org peut être une bonne alternative).
 **Il devra être possible d’effectuer toutes les actions demandées de manière purement vocale en entrée et en sortie**.

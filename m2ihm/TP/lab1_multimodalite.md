@@ -3,7 +3,7 @@
 ## Objectifs
 La communication humain-machine peut se définir comme un cadre de relations entre trois acteurs : l’utilisateur, l’application et l’interface. Les échanges d’informations entre l’usager et la machine constituent le support de la communication. Ceci nous amène à considérer le document électronique comme un objet de communication entre un auteur et un ou plusieurs lecteurs. Sur cet objet, différents processus tels que la compréhension, le repérage ou l’appropriation du texte sont mis en jeu au travers d’une interface. Un document électronique structuré se décompose en :
 *	son contenu textuel,
-*	et ses attributs typo-dimensionnels qui représentent la mise en forme matérielle du texte comme par exemple le style “titre”.
+*	et ses attributs typo-dimensionnels qui représentent la mise en forme matérielle du texte comme par exemple le style *titre*.
 Ces derniers sont porteurs de sens en sus du contenu du document proprement dit.
 L’objectif est ici d’étudier une des propriétés de la multimodalité CARE- Complémentarité, Assignation, Redondance et Équivalence définies par (Coutaz, 1994) pour des usagers non-voyants.
 
@@ -20,7 +20,7 @@ L’objectif est de développer un mini-moteur de fission multimodale permettant
   *	faire varier les paramètres prosodiques de la synthèse vocale (débit, élocution et volume) d’après l’attribut mis en jeu. Par exemple, l’attribut **gras**, pouvant dénoter une phrase avec une sémantique forte, il faudra l’énoncer avec une vitesse plus lente et un fort volume.
   *	Ou enfin utiliser une plage braille simulée (pour les non-voyants) sur laquelle les attributs typographiques en jeu sont affichés pendant que la synthèse restitue le texte.
 
-Vous pouvez utiliser le document disponible ici	 (https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/Toulouse.html)pour effectuer vos tests
+Vous pouvez utiliser le document disponible ici	 (https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/Toulouse.html) pour effectuer vos tests.
 
 **Outils disponibles**
 *	ppilot5, agent ivy de synthèse vocale (prend en compte le format [SSML](https://www.w3.org/TR/speech-synthesis11)

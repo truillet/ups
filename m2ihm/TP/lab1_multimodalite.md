@@ -22,7 +22,7 @@ L’objectif est de développer un mini-moteur de fission multimodale permettant
 
 Vous pouvez utiliser le document disponible ici	 (https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/Toulouse.html)pour effectuer vos tests
 
-**Outils disponibles : **
+**Outils disponibles**
 *	ppilot5, agent ivy de synthèse vocale (prend en compte le format [SSML](https://www.w3.org/TR/speech-synthesis11)
 *	Braille_display, agent ivy simulant une plage braille 10 points braille
 *	Le middleware ivy

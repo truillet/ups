@@ -32,4 +32,4 @@ Le choix de la multimodalité désirée ainsi que les fonctions play / pause / r
 
 ## Liens
 *	Coutaz J., Nigay L., Les propriétés “CARE” dans les interfaces multimodales. IHM’94, Lille, 8 & 9 décembre 1994, pp. 7-14
-*	Schnelle-Walka, Dirk; Radomski, Stefan; Mühlhäuser, Max (2014): [Multimodal Fusion and Fission within W3C Standards for Nonverbal Communication with Blind Persons]((https://www.icvr.ethz.ch/research/projects/closed/dach/publications/fission_icchp_2014.pdf), pp. 209-213, Springer, Computers Helping People with Special Needs, 14th International Conference on Computers Helping People with Special Needs, ISBN 978-3-319-08595-1 
+*	Schnelle-Walka, Dirk; Radomski, Stefan; Mühlhäuser, Max (2014): [Multimodal Fusion and Fission within W3C Standards for Nonverbal Communication with Blind Persons](https://www.icvr.ethz.ch/research/projects/closed/dach/publications/fission_icchp_2014.pdf), pp. 209-213, Springer, Computers Helping People with Special Needs, 14th International Conference on Computers Helping People with Special Needs, ISBN 978-3-319-08595-1 

@@ -23,12 +23,12 @@ L’objectif est de développer un mini-moteur de fission multimodale permettant
 Vous pouvez utiliser le document disponible ici	 (https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/Toulouse.html) pour effectuer vos tests.
 
 **Outils disponibles**
-*	ppilot5, agent ivy de synthèse vocale (prend en compte le format [SSML](https://www.w3.org/TR/speech-synthesis11)
-*	Braille_display, agent ivy simulant une plage braille 10 points braille
-*	Le middleware ivy
+*	[ppilot5](https://github.com/truillet/ivy/blob/master/agents/doc_ppilot5.md), agent ivy de synthèse vocale (prend en compte le format [SSML](https://www.w3.org/TR/speech-synthesis11)
+*	[Braille_display](https://github.com/truillet/ups/blob/master/m2ihm/TP/Braille_display.zip), agent ivy simulant une plage braille 10 points braille
+*	Le [middleware ivy](https://github.com/truillet/ivy)
 
-Vous pouvez coder votre moteur dans le langage que vous voulez.
-Le choix de la multimodalité désirée ainsi que les fonctions play / pause / retour au début de la lecture seront implémentées par le moteur.
+Vous pouvez coder votre moteur dans <ins>le langage que vous voulez</ins>.
+Le choix de la multimodalité désirée ainsi que les fonctions *play* / *pause* / *retour* au début de la lecture seront implémentées par le moteur.
 
 ## Liens
 *	Coutaz J., Nigay L., Les propriétés “CARE” dans les interfaces multimodales. IHM’94, Lille, 8 & 9 décembre 1994, pp. 7-14

@@ -13,16 +13,16 @@ Nous allons durant ce TP étudier la propriété **d’équivalence** dans le ca
 *	auxquelles nous pouvons ajouter *l’équivalence d’usage* entre plusieurs utilisateurs.
 
 L’objectif est de développer un mini-moteur de fission multimodale permettant de présenter de manière multimodale des textes. Vous aurez à coder :
-*	la multimodalité de type concurrent où l’on utilise en parallèle les médias de sortie de manière disjointe. L’information redondante va être pour notre application limitée à la présentation des attributs typo-dimensionnels. Ainsi, ces attributs sont traduits sur plusieurs médias à la fois, par exemple, affichés sur une plage braille (simulée) et énoncés oralement (correspond à l’équivalence d’effet dans CARE)
 
+*	la multimodalité de type **concurrent** où l’on utilise en parallèle les médias de sortie de manière disjointe. L’information redondante va être pour notre application limitée à la présentation des attributs typo-dimensionnels. Ainsi, ces attributs sont traduits sur plusieurs médias à la fois, par exemple, affichés sur une plage braille (simulée) et énoncés oralement (correspond à *l’équivalence d’effet* dans **CARE**)
 *	la multimodalité **synergique** pour laquelle vous pourrez :
   *	faire énoncer oralement les attributs typographiques : par exemple (*titre de niveau 1* : Toulouse, Ville Rose). C’est la solution la plus simple mais c’est celle qui sollicite le plus la charge cognitive de l’usager, celui-ci devant mémoriser le texte en associant mentalement ses éventuels attributs.
   *	faire varier les paramètres prosodiques de la synthèse vocale (débit, élocution et volume) d’après l’attribut mis en jeu. Par exemple, l’attribut **gras**, pouvant dénoter une phrase avec une sémantique forte, il faudra l’énoncer avec une vitesse plus lente et un fort volume.
   *	Ou enfin utiliser une plage braille simulée (pour les non-voyants) sur laquelle les attributs typographiques en jeu sont affichés pendant que la synthèse restitue le texte.
 
-Vous pouvez utiliser le document disponible ici	 (https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/Toulouse.html) pour effectuer vos tests.
+Vous pouvez utiliser le document disponible ici	:(https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/Toulouse.html) pour effectuer vos tests.
 
-**Outils disponibles**
+## Outils disponibles
 *	[ppilot5](https://github.com/truillet/ivy/blob/master/agents/doc_ppilot5.md), agent ivy de synthèse vocale (prend en compte le format [SSML](https://www.w3.org/TR/speech-synthesis11)
 *	[Braille_display](https://github.com/truillet/ups/blob/master/m2ihm/TP/Braille_display.zip), agent ivy simulant une plage braille 10 points braille
 *	Le [middleware ivy](https://github.com/truillet/ivy)

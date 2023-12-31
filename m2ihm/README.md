@@ -12,7 +12,7 @@
 
 
 ## Travaux Pratiques
-* **TP1** - [Interaction vocale](https://github.com/truillet/ups/blob/master/m2ihm/TP/TP1_interaction_vocale.pdf) (2023)
+* **TP1** - [Interaction vocale](https://github.com/truillet/ups/blob/master/m2ihm/TP/lab1_vocal.md) (2024)
 
 _Exemple de grammaire [grXML](https://github.com/truillet/ups/blob/master/m2ihm/Cours/GrXML.pdf)_ : **[grammar.grxml](https://github.com/truillet/ups/blob/master/m2ihm/TP/grammar.grxml)**
 
@@ -21,7 +21,7 @@ _Exemple de code Processing permettant la reconnaissance vocale avec Google Chro
 _Exemple de code Processing permettant l'affichage de la reconnaissance vocale et envoi vers la synthèse_ : **[vocal_ivy](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/vocal_ivy.zip)** _ou java_ : **[vocal_ivy.java](https://github.com/truillet/ups/blob/master/m2ihm/TP/vocal_ivy.java)**
 
 
-* **TP2** - [Multimodalité en sortie](https://github.com/truillet/ups/blob/master/m2ihm/TP/TP2_multimodalite_sortie.pdf) (2023)
+* **TP2** - [Multimodalité en sortie](https://github.com/truillet/ups/blob/master/m2ihm/TP/lab2_multimodalite.md) (2024)
 * **Les outils utilisés par les TP** : 
   * agent de reconnaissance vocale / Speech Recognizer agent [sra5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/sra5.zip)
   * agent de synthèse vocale / speech Synthesis agent [ppilot5 v 3.3](https://github.com/truillet/ivy/blob/master/agents/ppilot5_3.3.zip)

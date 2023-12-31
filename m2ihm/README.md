@@ -14,7 +14,7 @@
 ## Travaux Pratiques
 * **TP1** - [Interaction vocale](https://github.com/truillet/ups/blob/master/m2ihm/TP/TP1_interaction_vocale.pdf) (2023)
 
-_Exemple de grammaire grXML_ : **[grammar.grxml](https://github.com/truillet/ups/blob/master/m2ihm/TP/grammar.grxml)**
+_Exemple de grammaire [grXML](https://github.com/truillet/ups/blob/master/m2ihm/Cours/GrXML.pdf)_ : **[grammar.grxml](https://github.com/truillet/ups/blob/master/m2ihm/TP/grammar.grxml)**
 
 _Exemple de code Processing permettant la reconnaissance vocale avec Google Chrome_ : **[RecoChrome](https://github.com/truillet/international/blob/master/utt/code/RecoChrome.zip)**
 

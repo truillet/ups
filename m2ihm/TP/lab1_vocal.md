@@ -12,7 +12,7 @@ Afin de réaliser notre application multimédia, nous nous servirons prioritaire
 **Nota** : Si vous êtes sous Linux ou MacOS, il vous faudra trouver des solutions alternatives pour la reconnaissance et la synthèse vocale (par exemple, utiliser **[MaryTTS](https://github.com/marytts/marytts)** pour la synthèse vocale ou **[STT](http://florianschulz.info/stt)** ou encore **[SpeechRecognition](https://pythonprogramminglanguage.com/speech-recognition)**, librairie python pour la reconnaissance vocale.
 
 # Travail attendu de cette séance (2 heures)
-Après avoir <ins>pris en main</ins> les [agents de reconnaissance sra5](https://github.com/truillet/ivy/blob/master/agents/doc_sra5.md) et de [synthèse vocale ppilot5](https://github.com/truillet/ivy/blob/master/agents/doc_ppilot5.md) fonctionnant avec le [bus logiciel ivy](https://github.com/truillet/ivy), l’objet de cette séance est :
+Après avoir <ins>pris en main</ins> les [agents de reconnaissance **sra5**](https://github.com/truillet/ivy/blob/master/agents/doc_sra5.md) et de [synthèse vocale **ppilot5**](https://github.com/truillet/ivy/blob/master/agents/doc_ppilot5.md) fonctionnant avec le [bus logiciel **ivy**](https://github.com/truillet/ivy), l’objet de cette séance est :
 
 1. de **définir la grammaire de reconnaissance** (commandes vocales ou langage *pseudo-naturel*) qui sera utilisée par votre application, gérer les résultats de la sortie sémantique (i.e. les concepts associés aux paroles prononcées) ainsi que le taux de confiance.
 2. de **définir les retours (feedbacks) vocaux à synthétiser** et retours sonores utilisés par votre application.

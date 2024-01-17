@@ -1,4 +1,4 @@
-# Sécurité
+# UE10 - Sécurité et Sûreté
 
 ## Cours
 * [Introduction aux réseaux](https://github.com/truillet/ups/blob/master/m2issd/cours/introduction_2023.pdf) (2022)

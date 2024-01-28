@@ -29,7 +29,7 @@
 ## Annales d'examens sur table
 * **[Sujet Examen 2021](https://github.com/truillet/ups/blob/master/m2issd/annales/Exam_m2issd_20-21_UE8.pdf)**
 * **[Sujet Examen 2022](https://github.com/truillet/ups/blob/master/m2issd/annales/Exam_m2issd_21-22_UE8.pdf)**
-* **Sujet Examen 2023**
+* **[Sujet Examen 2023](https://github.com/truillet/ups/blob/master/m2issd/annales/Exam_m2issd_22-23_UE10.pdf)**
 
 ## Quelques liens
 

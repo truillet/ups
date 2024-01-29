@@ -4,7 +4,7 @@ Cet enseignement est en lien étroit avec le [FabLab](http://campusfab.univ-tlse
 
 Ces projets s'effectuent en collaboration avec le laboratoire commun IRIT/IJA "Cherchons Pour Voir"  qui permet à des professionnels de l'institut (enseignants, transcripteurs, ergothérapeutes, …) de proposer des projets à destination d'enfants en situation de handicap.
 
-Enfin, ces projets peuvent participer au  concours **[T'Hacka Voir](https://thackavoir.fr)** organisé par ["Cherchons Pour Voir"](http://cherchonspourvoir.org) <img src="https://github.com/truillet/ups/blob/master/l1info/projets/CPV.png" width=100 valign="middle">
+Enfin, ces projets peuvent participer au  concours **[T'Hacka Voir](https://thackavoir.fr)** organisé par ["Cherchons Pour Voir"](http://cherchonspourvoir.org) <img src="https://github.com/truillet/ups/blob/master/l1info/projets/logo_cpv.png" width=100 valign="middle">
 
 ## Photos de projets des années précédentes
 * Les [photos des projets](https://goo.gl/photos/ziiTxKuK3US1Zgwo6) 2017		
@@ -14,6 +14,7 @@ Enfin, ces projets peuvent participer au  concours **[T'Hacka Voir](https://thac
 * Les [photos des projets](https://photos.app.goo.gl/aM46jGBa2pTGjJdQ7) 2021
 * Les [photos des projets](https://photos.app.goo.gl/5idE69rDTeeKDa5CA) 2022
 * Les [photos des projets](https://photos.app.goo.gl/qbkTpKCmo7s3RnCS8) 2023
+* Les photos des projets 2024
             
 ## Tips et outils 
 * [Se connecter au réseau wifi eduroam](https://cat.eduroam.org)
@@ -28,7 +29,7 @@ Enfin, ces projets peuvent participer au  concours **[T'Hacka Voir](https://thac
 ### Python / guizero : interface graphique pour Python
 
 ### <img src="https://github.com/truillet/upssitech/blob/master/SRI/1A/Code/Processing_2021_logo.png" width=64> [Processing.org](https://www.processing.org)
-* [support de présentation Processing](https://github.com/truillet/ups/blob/master/l1info/supports/introduction_processing_ex.pdf)
+* [supports Processing.org](https://github.com/truillet/processing)
 * [les exemples de base](https://github.com/truillet/ups/blob/master/l1info/code/exercices_processing.zip)
 
 

@@ -7,14 +7,7 @@ Ces projets s'effectuent en collaboration avec le laboratoire commun ["Cherchons
 Enfin, ces projets peuvent participer au  concours **[T'Hacka Voir](https://thackavoir.fr)** organisé lui aussi par ["Cherchons Pour Voir"](http://cherchonspourvoir.org) <img src="https://github.com/truillet/ups/blob/master/l1info/projets/logo_cpv.png" width=50 valign="middle">
 
 ## Photos de projets des années précédentes
-* Les [photos des projets](https://goo.gl/photos/ziiTxKuK3US1Zgwo6) 2017		
-* Les [photos des projets](https://photos.app.goo.gl/4vy6OGd5W74osKal1) 2018
-* Les [photos des projets](https://photos.app.goo.gl/YDe1hAeWh82qXuxS6) 2019
-* ~~Les photos des projets 2020~~ (pour cause de confinement général, les projets ne sont malheureusement pas arrivés à terme)
-* Les [photos des projets](https://photos.app.goo.gl/aM46jGBa2pTGjJdQ7) 2021
-* Les [photos des projets](https://photos.app.goo.gl/5idE69rDTeeKDa5CA) 2022
-* Les [photos des projets](https://photos.app.goo.gl/qbkTpKCmo7s3RnCS8) 2023
-* Les photos des projets 2024
+* Les photos des projets [2017](https://goo.gl/photos/ziiTxKuK3US1Zgwo6), [2018](https://photos.app.goo.gl/4vy6OGd5W74osKal1), [2019](https://photos.app.goo.gl/YDe1hAeWh82qXuxS6), ~~2020~~ (pour cause de confinement général, les projets ne sont malheureusement pas arrivés à terme), [2021](https://photos.app.goo.gl/aM46jGBa2pTGjJdQ7), [2022](https://photos.app.goo.gl/5idE69rDTeeKDa5CA), [2023](https://photos.app.goo.gl/qbkTpKCmo7s3RnCS8), 2024
             
 ## Tips et outils 
 * [Se connecter au réseau wifi eduroam](https://cat.eduroam.org)

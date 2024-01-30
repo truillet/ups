@@ -2,6 +2,8 @@
 
 Cet enseignement est en lien étroit avec le [FabLab](http://campusfab.univ-tlse3.fr) de l'université qui met à disposition son matériel et logiciels :  imprimantes 3D, découpeuse laser, machines CNC et systèmes électroniques (arduino, raspberry Pi, ...). Il est ouvert pour les étudiants en Informatique, EEA (CMI) et MIASHS au second semestre de l'année universitaire.
 
+>>**[Présentation Générale de l'UE](https://github.com/truillet/ups/blob/master/l1info/supports/L1_FabNum.pdf)**<<
+
 Ces projets s'effectuent en collaboration avec le laboratoire commun ["Cherchons Pour Voir"](http://cherchonspourvoir.org) <img src="https://github.com/truillet/ups/blob/master/l1info/projets/logo_cpv.png" width=50 valign="middle">  qui permet à des professionnels de l'institut (enseignants, transcripteurs, ergothérapeutes, …) de proposer des projets à destination d'enfants en situation de handicap.
 
 Enfin, ces projets peuvent participer au  concours **[T'Hacka Voir](https://thackavoir.fr)** organisé lui aussi par ["Cherchons Pour Voir"](http://cherchonspourvoir.org) <img src="https://github.com/truillet/ups/blob/master/l1info/projets/logo_cpv.png" width=50 valign="middle">

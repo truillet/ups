@@ -1,22 +1,24 @@
 # UE10 - Sécurité et Sûreté
 
 ## Cours
-* [Introduction aux réseaux](https://github.com/truillet/ups/blob/master/m2issd/cours/introduction_2024.pdf) (2024)
-* [Introduction Générale cyber-*](https://github.com/truillet/ups/blob/master/m2issd/cours/Cyber_Octobre2023.pdf) (2024)
-* [Robotique - le futur est presque parmi nous](https://github.com/truillet/ups/blob/master/m2issd/cours/Robotique_fevrier_2022.pdf) (2022)
-* [1 - Reconnaissance (OSINT)](https://github.com/truillet/ups/blob/master/m2issd/cours/OSINT_Reconnaissance.pdf) (2023)
+* 1- **Introduction réseaux / problématiques cyber**
+  * [Introduction aux réseaux](https://github.com/truillet/ups/blob/master/m2issd/cours/introduction_2024.pdf) (2024)
+  * [Introduction Générale cyber-*](https://github.com/truillet/ups/blob/master/m2issd/cours/Cyber_Octobre2023.pdf) (2024)
+  * [Robotique - le futur est presque parmi nous](https://github.com/truillet/ups/blob/master/m2issd/cours/Robotique_fevrier_2022.pdf) (2022)
+* [2 - Reconnaissance (OSINT)](https://github.com/truillet/ups/blob/master/m2issd/cours/OSINT_Reconnaissance.pdf) (2023)
    * Un jeu : [Sourcing Games, Games for Recruiters and Sourcers](https://sourcing.games)
-* [2 - Scanning](https://github.com/truillet/ups/blob/master/m2issd/cours/Scanning.pdf) (2023)
-* [3- Gaining Access](https://github.com/truillet/ups/blob/master/m2issd/cours/Gaining_Access.pdf) (2023)
-* [Introduction à Raspberry Pi](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_RPi.pdf) (2023)
-* [Introduction à Python](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_Python.pdf) (2023)  
+* [3 - Scanning](https://github.com/truillet/ups/blob/master/m2issd/cours/Scanning.pdf) (2023)
+* [4- Gaining Access](https://github.com/truillet/ups/blob/master/m2issd/cours/Gaining_Access.pdf) (2023)
+* 5- **Programmer / Preuves de concepts**
+  * [Introduction à Raspberry Pi](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_RPi.pdf) (2023)
+  * [Introduction à Python](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_Python.pdf) (2023)  
   
 ## Travaux Dirigés
-
 * **TP1** : [TCP/IP](https://github.com/truillet/ups/blob/master/m2issd/td/TP1_TCP_IP.pdf) (2024)
 * **TP2** : [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_BUSINT.pdf) (2023)
-   * [Google Dorks](https://www.exploit-db.com/google-hacking-database)
-   * [DorkSearch.com](https://dorksearch.com)
+   * [Google Dorks](https://www.exploit-db.com/google-hacking-database) et [DorkSearch.com](https://dorksearch.com)
+   * [OSINT Map](https://cybdetective.com/osintmap)
+   * [Ask OSM Map](https://overpass-turbo.eu)
 * **TP3** : [Découverte de la topologie réseau](https://github.com/truillet/ups/blob/master/m2issd/td/TP3_Scanning.pdf)
    * [NMAP Cheat Sheet](https://www.stationx.net/nmap-cheat-sheet)
 * **TP4** : [Initiation à la Sécurité Informatique](https://github.com/truillet/ups/blob/master/m2issd/td/TP4_Initiation_Securite.pdf) (2023)

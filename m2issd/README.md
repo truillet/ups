@@ -5,7 +5,7 @@
   * [Introduction aux réseaux](https://github.com/truillet/ups/blob/master/m2issd/cours/introduction_2024.pdf) (2024)
   * [Introduction Générale cyber-*](https://github.com/truillet/ups/blob/master/m2issd/cours/Cyber_Octobre2023.pdf) (2024)
   * [Robotique - le futur est presque parmi nous](https://github.com/truillet/ups/blob/master/m2issd/cours/Robotique_fevrier_2022.pdf) (2022)
-* [2 - Reconnaissance (OSINT)](https://github.com/truillet/ups/blob/master/m2issd/cours/OSINT_Reconnaissance.pdf) (2023)
+* [2 - Reconnaissance (OSINT)](https://github.com/truillet/ups/blob/master/m2issd/cours/OSINT_Reconnaissance.pdf) (2024)
    * Un jeu : [Sourcing Games, Games for Recruiters and Sourcers](https://sourcing.games)
 * [3 - Scanning](https://github.com/truillet/ups/blob/master/m2issd/cours/Scanning.pdf) (2023)
 * [4- Gaining Access](https://github.com/truillet/ups/blob/master/m2issd/cours/Gaining_Access.pdf) (2023)

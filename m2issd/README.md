@@ -18,9 +18,10 @@
 * **TP1** : [TCP/IP](https://github.com/truillet/ups/blob/master/m2issd/td/TP1_TCP_IP.pdf) (2024)
 * **TP2** : [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_BUSINT.pdf) (2023)
    * Un jeu : [Sourcing Games, Games for Recruiters and Sourcers](https://sourcing.games)
-   * [Google Dorks](https://www.exploit-db.com/google-hacking-database) et [DorkSearch.com](https://dorksearch.com)
-   * [OSINT Map](https://cybdetective.com/osintmap)
-   * [Ask OSM Map](https://overpass-turbo.eu)
+   * *quelques liens*
+     * [Google Dorks](https://www.exploit-db.com/google-hacking-database) et [DorkSearch.com](https://dorksearch.com)
+     * [OSINT Map](https://cybdetective.com/osintmap)
+     * [Ask OSM Map](https://overpass-turbo.eu)
 * **TP3** : [Découverte de la topologie réseau](https://github.com/truillet/ups/blob/master/m2issd/td/TP3_Scanning.pdf)
    * [NMAP Cheat Sheet](https://www.stationx.net/nmap-cheat-sheet)
 * **TP4** : [Initiation à la Sécurité Informatique](https://github.com/truillet/ups/blob/master/m2issd/td/TP4_Initiation_Securite.pdf) (2023)

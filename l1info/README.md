@@ -34,10 +34,11 @@ Enfin, ces projets peuvent participer au  concours **[T'Hacka Voir](https://thac
 ### arduino.cc
 * [support de présentation arduino](https://github.com/truillet/ups/blob/master/l1info/supports/L1_arduino.pdf)
 * [les exemples de base](https://github.com/truillet/ups/blob/master/l1info/code/Processing_base.zip)
-* [exemple mêlant arduino et processing](https://github.com/truillet/ups/blob/master/l1info/code/arduino_processing.zip)
+* [exemple mêlant arduino et processing - envoi et lecture de données](https://github.com/truillet/ups/blob/master/l1info/code/processing_arduino.zip)
 
 **Drivers**
 * Driver [SER340](https://sparks.gogo.co.nz/ch340.html) (clones arduino)
+* Driver [CP210x](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
 
 ### Raspberry PI
 * [principes généraux et installation](https://github.com/truillet/ups/blob/master/l1info/supports/Introduction_RPi.pdf)

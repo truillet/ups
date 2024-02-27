@@ -16,7 +16,7 @@
   
 ## Travaux Dirigés
 * **TP1** : [TCP/IP](https://github.com/truillet/ups/blob/master/m2issd/td/TP1_TCP_IP.pdf) (2024)
-* **TP2** : [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_BUSINT.pdf) (2023)
+* **TP2** : [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_BUSINT.pdf) (2024)
    * Un jeu : [Sourcing Games, Games for Recruiters and Sourcers](https://sourcing.games)
    * *quelques liens*
      * [Google Dorks](https://www.exploit-db.com/google-hacking-database) et [DorkSearch.com](https://dorksearch.com)

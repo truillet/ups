@@ -29,6 +29,7 @@
 * **TP4** : [Initiation à la Sécurité Informatique](https://github.com/truillet/ups/blob/master/m2issd/td/TP4_Initiation_Securite.pdf) (2024)
    * [Rowbot's PenTest Notes](https://guide.offsecnewbie.com/shells)
    * **stéganographie** : [The Undetectable Cybersecurity Threat](https://builtin.com/cybersecurity/steganography) / [Steg-NG](https://github.com/brandon1024/steg-png)
+   * [l'algorithme qui sécurise internet](https://www.youtube.com/watch?v=1Yv8m398Fv0)
 * **TP5** : [Python & librairie scapy](https://github.com/truillet/ups/blob/master/m2issd/td/TP5_Python_Scapy.pdf) (2023)
    * [article de GNU Linux Mag](https://connect.ed-diamond.com/GNU-Linux-Magazine/GLMFHS-090/Scapy-le-couteau-suisse-Python-pour-le-reseau)
    * code [ROT13](https://github.com/truillet/ups/blob/master/m2issd/code/ROT13.py) et [OACI](https://github.com/truillet/ups/blob/master/m2issd/code/OACI.zip)

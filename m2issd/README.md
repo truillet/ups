@@ -10,6 +10,8 @@
    * [Livre blanc de l'OSINT](https://ozint.eu/contributions/Livre%20blanc-Le%20cadre%20legal%20OSINT-2023.pdf)
 * [3 - Scanning](https://github.com/truillet/ups/blob/master/m2issd/cours/Scanning.pdf) (2024)
 * [4- Gaining Access](https://github.com/truillet/ups/blob/master/m2issd/cours/Gaining_Access.pdf) (2024)
+  * [xz backdoor](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/)
+  * [NTLM to plaintext password](https://ntlm.pw)
 * 5- **Programmer / Preuves de concepts**
   * [Focus sur le reverse Shell](https://github.com/truillet/ups/blob/master/m2issd/cours/Reverse_Shell.pdf) (2024)
   * [Introduction à Arduino](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_arduino.pdf) (2024) 

@@ -27,6 +27,8 @@
      * [Google Dorks](https://www.exploit-db.com/google-hacking-database) et [DorkSearch.com](https://dorksearch.com)
      * [OSINT Map](https://cybdetective.com/osintmap)
      * [Ask OSM Map](https://overpass-turbo.eu)
+     * [MetaGuessR](https://metaguessr.wordpress.com)
+     * [SunCalc](https://www.suncalc.org)
 * **TP3** : [Découverte de la topologie réseau](https://github.com/truillet/ups/blob/master/m2issd/td/TP3_Scanning.pdf) (2024)
    * [NMAP Cheat Sheet](https://www.stationx.net/nmap-cheat-sheet)
 * **TP4** : [Initiation à la Sécurité Informatique](https://github.com/truillet/ups/blob/master/m2issd/td/TP4_Initiation_Securite.pdf) (2024)

@@ -38,8 +38,10 @@ _Exemple de code Processing permettant l'affichage de la reconnaissance vocale e
 * [OpenAI Whisper](https://pypi.org/project/openai-whisper/)
 
 ### Synthèse de la parole
-* [MaryTTS](http://mary.dfki.de)
+* [MaryTTS]([http://mary.dfki.de](https://github.com/marytts/marytts))  et [py-marytts](https://pypi.org/project/py-marytts/)
 * [eSpeak NG TTS](https://github.com/espeak-ng/espeak-ng)
+* [coqui-ai](https://github.com/coqui-ai/TTS)
+* [Mozilla TTS](https://github.com/mozilla/TTShttps://github.com/mozilla/TTS)
 
-### Autre liens
+### Autres liens
 * [Support Processing.org](https://github.com/truillet/upssitech/blob/master/SRI/1A/Cours/C_processing.org_2.4.pdf) et liens vers quelques exercices ([TP0](https://github.com/truillet/processing/blob/master/lab0.md), [TP1]([https://github.com/truillet/processing/blob/master/lab1.md](https://github.com/truillet/processing/blob/master/lab1.md)) et [TP2](https://github.com/truillet/processing/blob/master/lab2.md))

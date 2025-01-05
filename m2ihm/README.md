@@ -19,12 +19,12 @@
 * Exemple de grammaire [grXML](https://github.com/truillet/ups/blob/master/m2ihm/Cours/GrXML.pdf) : **[grammar.grxml](https://github.com/truillet/ups/blob/master/m2ihm/TP/grammar.grxml)**
 * code Processing permettant l'affichage issu de la reconnaissance vocale et envoi vers la synthèse : **[vocal_ivy](https://github.com/truillet/ups/blob/master/m2ihm/TP/dessert_vocal.zip)**
 * code java permettant l'affichage issu de la reconnaissance vocale : **[vocal_ivy.java](https://github.com/truillet/ups/blob/master/m2ihm/TP/vocal_ivy.java)**
-* code python utilisant la reconnaissance de parole : ** [SR_ivy.py](https://github.com/truillet/tas_de_code/blob/master/Speech_Recognition/SR_ivy.py)
+* code python utilisant la reconnaissance de parole : ** [SR_ivy.py](https://github.com/truillet/tas_de_code/blob/master/Speech_Recognition/SR_ivy.py)**
 
 ### TP2
 [Multimodalité en sortie](https://github.com/truillet/ups/blob/master/m2ihm/TP/lab2_multimodalite.md) (2025)
   
-* **Les outils utilisés par les TP** : 
+**Les outils utilisés par les TP** : 
   * agent de reconnaissance vocale / Speech Recognizer agent [sra5](https://github.com/truillet/ivy/blob/master/agents/sra5.zip)
   * agent de synthèse vocale / speech Synthesis agent [ppilot5 v 3.3](https://github.com/truillet/ivy/blob/master/agents/ppilot5_3.3.zip)
   * agent d'affichage braille / braille display agent [Braille_display](https://github.com/truillet/ups/blob/master/m2ihm/TP/Braille_display.zip)

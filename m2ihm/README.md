@@ -12,17 +12,16 @@
 
 
 ## Travaux Pratiques
-* **TP1** - [Interaction vocale](https://github.com/truillet/ups/blob/master/m2ihm/TP/lab1_vocal.md) (2025)
+### TP1 - [Interaction vocale](https://github.com/truillet/ups/blob/master/m2ihm/TP/lab1_vocal.md) (2025)
 
 _Exemple de grammaire [grXML](https://github.com/truillet/ups/blob/master/m2ihm/Cours/GrXML.pdf)_ : **[grammar.grxml](https://github.com/truillet/ups/blob/master/m2ihm/TP/grammar.grxml)**
 
-### Exemples
+**Exemples**
 * code Processing permettant l'affichage issu de la reconnaissance vocale et envoi vers la synthèse : **[vocal_ivy](https://github.com/truillet/ups/blob/master/m2ihm/TP/dessert_vocal.zip)**
 * code java permettant l'affichage issu de la reconnaissance vocale : **[vocal_ivy.java](https://github.com/truillet/ups/blob/master/m2ihm/TP/vocal_ivy.java)**
 * code python utilisant la reconnaissance de parole : ** [SR_ivy.py](https://github.com/truillet/tas_de_code/blob/master/Speech_Recognition/SR_ivy.py)
 
-
-* **TP2** - [Multimodalité en sortie](https://github.com/truillet/ups/blob/master/m2ihm/TP/lab2_multimodalite.md) (2025)
+### TP2 - [Multimodalité en sortie](https://github.com/truillet/ups/blob/master/m2ihm/TP/lab2_multimodalite.md) (2025)
 * **Les outils utilisés par les TP** : 
   * agent de reconnaissance vocale / Speech Recognizer agent [sra5](https://github.com/truillet/ivy/blob/master/agents/sra5.zip)
   * agent de synthèse vocale / speech Synthesis agent [ppilot5 v 3.3](https://github.com/truillet/ivy/blob/master/agents/ppilot5_3.3.zip)
@@ -30,7 +29,6 @@ _Exemple de grammaire [grXML](https://github.com/truillet/ups/blob/master/m2ihm/
   * outil de supervision ivy / ivy monitoring tool [Probe](https://github.com/truillet/ivy/blob/master/code/Probe.zip) ou / or [visionneur](https://github.com/truillet/ivy/blob/master/code/visionneur_1_2.zip) 
   * [Toulouse.html](https://github.com/truillet/ups/blob/master/m2ihm/TP/Toulouse.html)
  
-
 ## Liens
 ### Reconnaissance de la parole
 * [Microsoft Speech Platform](https://docs.microsoft.com/en-us/previous-versions/office/developer/speech-technologies/hh361572(v%3doffice.14))

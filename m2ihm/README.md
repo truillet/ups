@@ -46,4 +46,4 @@ _Exemple de code Processing permettant l'affichage de la reconnaissance vocale e
 * [MBROLA - Phoneme-to-Speech](https://github.com/numediart/MBROLA)
 
 ### Autres liens
-* [Support Processing.org](https://github.com/truillet/upssitech/blob/master/SRI/1A/Cours/C_processing.org_2.4.pdf) et liens vers quelques exercices ([TP0](https://github.com/truillet/processing/blob/master/lab0.md), [TP1]([https://github.com/truillet/processing/blob/master/lab1.md](https://github.com/truillet/processing/blob/master/lab1.md)) et [TP2](https://github.com/truillet/processing/blob/master/lab2.md))
+* [Support Processing.org](https://github.com/truillet/upssitech/blob/master/SRI/1A/Cours/C_processing.org_2.4.pdf) et liens vers quelques exercices ([TP0](https://github.com/truillet/processing/blob/master/lab0.md), [TP1](https://github.com/truillet/processing/blob/master/lab1.md) et [TP2](https://github.com/truillet/processing/blob/master/lab2.md)

@@ -16,17 +16,18 @@
 
 _Exemple de grammaire [grXML](https://github.com/truillet/ups/blob/master/m2ihm/Cours/GrXML.pdf)_ : **[grammar.grxml](https://github.com/truillet/ups/blob/master/m2ihm/TP/grammar.grxml)**
 
-_Exemple de code Processing permettant la reconnaissance vocale avec Google Chrome_ : **[RecoChrome](https://github.com/truillet/international/blob/master/utt/code/RecoChrome.zip)**
-
-_Exemple de code Processing permettant l'affichage de la reconnaissance vocale et envoi vers la synthèse_ : **[vocal_ivy](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/vocal_ivy.zip)** _ou java_ : **[vocal_ivy.java](https://github.com/truillet/ups/blob/master/m2ihm/TP/vocal_ivy.java)**
+### Exemples
+* code Processing permettant l'affichage issu de la reconnaissance vocale et envoi vers la synthèse : **[vocal_ivy](https://github.com/truillet/ups/blob/master/m2ihm/TP/dessert_vocal.zip)**
+* code java permettant l'affichage issu de la reconnaissance vocale : **[vocal_ivy.java](https://github.com/truillet/ups/blob/master/m2ihm/TP/vocal_ivy.java)**
+* code python utilisant la reconnaissance de parole : ** [SR_ivy.py](https://github.com/truillet/tas_de_code/blob/master/Speech_Recognition/SR_ivy.py)
 
 
 * **TP2** - [Multimodalité en sortie](https://github.com/truillet/ups/blob/master/m2ihm/TP/lab2_multimodalite.md) (2025)
 * **Les outils utilisés par les TP** : 
-  * agent de reconnaissance vocale / Speech Recognizer agent [sra5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/sra5.zip)
+  * agent de reconnaissance vocale / Speech Recognizer agent [sra5](https://github.com/truillet/ivy/blob/master/agents/sra5.zip)
   * agent de synthèse vocale / speech Synthesis agent [ppilot5 v 3.3](https://github.com/truillet/ivy/blob/master/agents/ppilot5_3.3.zip)
   * agent d'affichage braille / braille display agent [Braille_display](https://github.com/truillet/ups/blob/master/m2ihm/TP/Braille_display.zip)
-  * outil de supervision ivy / ivy monitoring tool [Probe](https://github.com/truillet/ivy/blob/master/code/Probe.zip) ou / or [visionneur](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Outils/visionneur_1_2.zip) 
+  * outil de supervision ivy / ivy monitoring tool [Probe](https://github.com/truillet/ivy/blob/master/code/Probe.zip) ou / or [visionneur](https://github.com/truillet/ivy/blob/master/code/visionneur_1_2.zip) 
   * [Toulouse.html](https://github.com/truillet/ups/blob/master/m2ihm/TP/Toulouse.html)
  
 
@@ -46,4 +47,4 @@ _Exemple de code Processing permettant l'affichage de la reconnaissance vocale e
 * [MBROLA - Phoneme-to-Speech](https://github.com/numediart/MBROLA)
 
 ### Autres liens
-* [Support Processing.org](https://github.com/truillet/upssitech/blob/master/SRI/1A/Cours/C_processing.org_2.4.pdf) et liens vers quelques exercices ([TP0](https://github.com/truillet/processing/blob/master/lab0.md), [TP1](https://github.com/truillet/processing/blob/master/lab1.md) et [TP2](https://github.com/truillet/processing/blob/master/lab2.md)
+* [Support Processing.org](https://github.com/truillet/upssitech/blob/master/SRI/1A/Cours/C_processing.org_2.4.pdf) et liens vers quelques exercices : [TP0](https://github.com/truillet/processing/blob/master/lab0.md), [TP1](https://github.com/truillet/processing/blob/master/lab1.md) et [TP2](https://github.com/truillet/processing/blob/master/lab2.md)

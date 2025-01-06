@@ -40,6 +40,7 @@
 
 ### Synthèse de la parole
 * [Un exécutable pour windows](https://github.com/truillet/ups/blob/master/m2ihm/TP/SayStatic.exe)
+* [edgeTTS](https://github.com/rany2/edge-tts)
 * [MaryTTS]([http://mary.dfki.de](https://github.com/marytts/marytts))  et [py-marytts](https://pypi.org/project/py-marytts/)
 * [eSpeak NG TTS](https://github.com/espeak-ng/espeak-ng)
 * [coqui-ai](https://github.com/coqui-ai/TTS)

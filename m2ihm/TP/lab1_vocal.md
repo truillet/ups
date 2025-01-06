@@ -1,5 +1,5 @@
 # Une application dirigée à la voix
-Nous souhaitons concevoir et réaliser une application **non-visuelle** (en *entrée* et en *sortie* incluant *parole* et éventuellement son -musique, messages enregistrés, etc.) permettant à un utilisateur **d’ajouter, retirer, manipuler des aliments affichés sur un écran afin de composer le contenu d’une assiette "gourmande" de dessert(s)**. (ex : café, thé, sucre, crème brûlée, profiteroles, ...)
+Nous souhaitons concevoir et réaliser une application **non-visuelle** (en *entrée* et en *sortie* incluant *parole* et éventuellement son -musique, messages enregistrés, etc.) permettant à un utilisateur **d’ajouter, retirer, manipuler des aliments affichés sur un écran afin de composer le contenu d’une assiette "gourmande" comprenant 2 boissons au maximum et 3 desserts**. (ex : café, jus d'orange, crème brûlée, profiteroles et fraises).
 
 <img src="https://github.com/truillet/ups/blob/master/m2ihm/TP/ressources/triangle.png" align="center" width=400>
 

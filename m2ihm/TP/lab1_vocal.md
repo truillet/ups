@@ -9,7 +9,7 @@ Vous coderez votre application dans le **langage que <ins>vous désirez</ins>** 
 
 Afin de réaliser notre application multimédia, nous nous servirons prioritairement du **middleware (bus logiciel) [ivy](https://github.com/truillet/ivy/blob/master/README.md)**, support au *Bureau d’Etudes sur la multimodalité* (voir Enseignement de M. Raynal).
 
-**Nota** : Si vous travaillez sous Linux ou MacOS, il vous faudra trouver des solutions alternatives pour la reconnaissance (par exemple, [SpeechRecognition](https://pythonprogramminglanguage.com/speech-recognition), librairie python pour la reconnaissance vocale) et la synthèse vocale ([espeak-ng](https://github.com/espeak-ng/espeak-ng), [PyTTSx3](https://pypi.org/project/pyttsx3/) ou [MaryTTS](https://github.com/marytts/marytts)).
+**Nota** : Si vous travaillez sous Linux ou MacOS, il vous faudra trouver des solutions alternatives pour la reconnaissance (par exemple, [SpeechRecognition](https://pythonprogramminglanguage.com/speech-recognition), librairie python pour la reconnaissance vocale) et la synthèse vocale ([edgeTTS](https://github.com/rany2/edge-tts), [espeak-ng](https://github.com/espeak-ng/espeak-ng), [PyTTSx3](https://pypi.org/project/pyttsx3/) ou [MaryTTS](https://github.com/marytts/marytts)).
 
 # Travail attendu de cette séance (2 heures)
 Après avoir <ins>pris en main</ins> les [agents de reconnaissance **sra5**](https://github.com/truillet/ivy/blob/master/agents/doc_sra5.md) et de [synthèse vocale **ppilot5**](https://github.com/truillet/ivy/blob/master/agents/doc_ppilot5.md) fonctionnant avec le [bus logiciel **ivy**](https://github.com/truillet/ivy), l’objet de cette séance est :

@@ -85,6 +85,7 @@ La [**RFC 1338**](https://datatracker.ietf.org/doc/html/rfc1338) propose d’abo
 Néanmoins, le **25 novembre 2019 à15h35**, le [**RIPE NCC**](https://www.ripe.net/) (Registre Régional d’attribution des adresses IP Europe/Asie) a attribué les derniers blocs **/22** (les derniers blocs **/8** ont été attribués en 2012) -cf. Figure 2.
 
 <img src="date_epuisement_ipv4.png" alt="épuisement IPv4" width="250"/>
+
 **Figure 2** : Epuisement des adresses IPv4 en Europe
 
 Il reste encore quelques adresses IPv4 par bloc **/24** en utilisant des adresses inutilisées ou récupérées.
@@ -103,7 +104,8 @@ Tout au long du reste du TP, nous allons utiliser quelques outils réseaux afin 
 * Nous allons observer le trafic (cf. figure 3) échangé entre un client et un sereur avec [Wireshark](https://www.wireshark.org), un outil dit de *capture réseau*.
 * 
 <img src="wireshark_http.png" alt="Wireshark - échange http" width="250"/>
-  **Figure 3** : échange http avec un serveur web
+
+**Figure 3** : échange http avec un serveur web
 * Quelle est la commande HTTP utilisée par le client pour demander au serveur une ressource (fichier ou page web). Quels sont les types de réponse qui sont mis en évidence ? Donnez leur code de retour.
 * Observez le contenu de la réponse du serveur.
 

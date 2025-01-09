@@ -3,8 +3,11 @@
 ## Cours
 * 1- **Introduction réseaux / problématiques cyber**
   * [Introduction aux réseaux](https://github.com/truillet/ups/blob/master/m2issd/cours/introduction_2025.pdf) (2025)
+     * [Histoire des réseaux de communication](https://interstices.info/une-breve-histoire-des-reseaux-de-telecommunications/)
+  <!--
   * [Introduction Générale cyber-*](https://github.com/truillet/ups/blob/master/m2issd/cours/Cyber_Octobre2023.pdf) (2024)
   * [Robotique - le futur est presque parmi nous](https://github.com/truillet/ups/blob/master/m2issd/cours/Robotique_fevrier_2022.pdf) (2022)
+  -->
 * [2 - Reconnaissance (OSINT)](https://github.com/truillet/ups/blob/master/m2issd/cours/OSINT_Reconnaissance.pdf) (2024)
   * [Qu'est que l'OSINT](https://www.numerama.com/cyberguerre/1628506-quest-ce-que-losint.html)
    * [Livre blanc de l'OSINT](https://ozint.eu/contributions/Livre%20blanc-Le%20cadre%20legal%20OSINT-2023.pdf)
@@ -75,4 +78,4 @@
 * [Guide in SSH Tunneling](https://www.hackingarticles.in/comprehensive-guide-on-ssh-tunneling)
 * [Guide pour réaliser un Plan de Continuité d'Activité](http://www.sgdsn.gouv.fr/uploads/2016/10/guide-pca-sgdsn-110613-normal.pdf)
 * [The Incident Response Hierarchy of Needs](https://github.com/swannman/ircapabilities)
-* [Lien vers documentation TKinter (GUI) en français](http://tkinter.fdex.eu/index.html)
+* [Lien vers documentation Tkinter (GUI) en français](http://tkinter.fdex.eu/index.html)

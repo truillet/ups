@@ -21,8 +21,8 @@
   * [Introduction à Python](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_Python.pdf) (2023)  
   
 ## Travaux Dirigés
-* **TP1** : [TCP/IP](https://github.com/truillet/ups/blob/master/m2issd/td/td1.md) (2025)
-* **TP2** : [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_BUSINT.pdf) (2024)
+* **TD1** : [TCP/IP](https://github.com/truillet/ups/blob/master/m2issd/td/td1.md) (2025)
+* **TD2** : [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_BUSINT.pdf) (2024)
    * Un jeu : [Sourcing Games, Games for Recruiters and Sourcers](https://sourcing.games)
    * *quelques liens*
      * [Google Dorks](https://www.exploit-db.com/google-hacking-database) et [DorkSearch.com](https://dorksearch.com)
@@ -30,13 +30,13 @@
      * [Ask OSM Map](https://overpass-turbo.eu)
      * [MetaGuessR](https://metaguessr.wordpress.com)
      * [SunCalc](https://www.suncalc.org)
-* **TP3** : [Découverte de la topologie réseau](https://github.com/truillet/ups/blob/master/m2issd/td/TP3_Scanning.pdf) (2024)
+* **TD3** : [Découverte de la topologie réseau](https://github.com/truillet/ups/blob/master/m2issd/td/TP3_Scanning.pdf) (2024)
    * [NMAP Cheat Sheet](https://www.stationx.net/nmap-cheat-sheet)
-* **TP4** : [Initiation à la Sécurité Informatique](https://github.com/truillet/ups/blob/master/m2issd/td/TP4_Initiation_Securite.pdf) (2024)
+* **TD4** : [Initiation à la Sécurité Informatique](https://github.com/truillet/ups/blob/master/m2issd/td/TP4_Initiation_Securite.pdf) (2024)
    * [Rowbot's PenTest Notes](https://guide.offsecnewbie.com/shells)
    * **stéganographie** : [The Undetectable Cybersecurity Threat](https://builtin.com/cybersecurity/steganography) / [Steg-NG](https://github.com/brandon1024/steg-png)
    * [l'algorithme qui sécurise internet](https://www.youtube.com/watch?v=1Yv8m398Fv0)
-* **TP5** : [Python & librairie scapy](https://github.com/truillet/ups/blob/master/m2issd/td/TP5_Python_Scapy.pdf) (2023)
+* **TD5** : [Python & librairie scapy](https://github.com/truillet/ups/blob/master/m2issd/td/TP5_Python_Scapy.pdf) (2023)
    * [article de GNU Linux Mag](https://connect.ed-diamond.com/GNU-Linux-Magazine/GLMFHS-090/Scapy-le-couteau-suisse-Python-pour-le-reseau)
    * code [ROT13](https://github.com/truillet/ups/blob/master/m2issd/code/ROT13.py) et [OACI](https://github.com/truillet/ups/blob/master/m2issd/code/OACI.zip)
 

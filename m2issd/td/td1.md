@@ -160,8 +160,8 @@ La commande **traceroute** permet de tracer l’itinéraire qu’emprunte un paq
 1. Testez et observez les résultats de la commande. Faites un **traceroute** vers **www.univ-tlse3.fr**. Représentez sur un schéma l’interconnexion (au niveau IP) entre votre PC et le serveur web de l’UPS.
 2. 
 
-[1]: **RFC** – Request For Comments, série numérotée de documents librement accessibles décrivant le plus souvent des spécifications techniques d’internet. La [RFC 1](https://datatracker.ietf.org/doc/html/rfc1) a été publiée le 7 avril 1969
-[2]: *0.0.0.0* est une adresse particulière utilisée comme adresse source dans les paquets de demande d’adresse DHCP par exemple.
-[3]: *127.0.0.1* est l’adresse de loopback.
-[4]: https://www.ieee.org – Institute of Electrical and Electronics Engineers 
+[^1]: **RFC** – Request For Comments, série numérotée de documents librement accessibles décrivant le plus souvent des spécifications techniques d’internet. La [RFC 1](https://datatracker.ietf.org/doc/html/rfc1) a été publiée le 7 avril 1969
+[^2]: *0.0.0.0* est une adresse particulière utilisée comme adresse source dans les paquets de demande d’adresse DHCP par exemple.
+[^3]: *127.0.0.1* est l’adresse de loopback.
+[^4]: https://www.ieee.org – Institute of Electrical and Electronics Engineers 
 

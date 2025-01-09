@@ -126,24 +126,23 @@ Cette mise en œuvre d’un protocole pose plusieurs questions : en particulier
 ### 2.5 concept d’adresse
 Chaque machine est identifiée par une adresse qui permet de la distinguer des autres. Une adresse assure donc l’identification des correspondants d’une communication. Il existe plusieurs types d’adresses en fonction du protocole utilisé.
 
-Une adresse liaison de type Ethernet suit un format standardisé par l’IEEE[[4]](#footnote-4). En particulier, les **trois premiers octets** identifient de manière unique le constructeur/vendeur à qui est attribuée l’adresse. Cet identifiant est appelé OUI (***O****rganizationally* ***U****nique* ***I****dentifier*)
+Une adresse liaison de type Ethernet suit un format standardisé par l’IEEE [^4]. En particulier, les **trois premiers octets** identifient de manière unique le constructeur/vendeur à qui est attribuée l’adresse. Cet identifiant est appelé OUI (***O****rganizationally* ***U****nique* ***I****dentifier*)
 
-Vous avez par exemple accès à la liste ici : **https://macvendors.com**
+Vous avez par exemple accès à la liste ici : [**macvendors**](https://macvendors.com)
 
 1. Quelle est l’adresse Ethernet (MAC) de votre machine ? Utilisez la commande **/sbin/ifconfig** pour en savoir plus sous Unix/MacOS et **ipconfig /all** sous windows.
 2. Déterminez à quelle organisation appartient cette adresse.
 
 Une adresse IP comporte **deux parties** (voir partie **2.**) Le nombre de bits dédiés à la partie réseau peut être connu implicitement à partir des classes d’adresses ou explicitement par un masque réseau.
-
 1. Quelle est l’adresse IP de votre machine ?
 2. A partir du masque de réseau, déterminez la partie réseau et la partie équipement de votre adresse IP
 
-Votre adresse est-elle une adresse privée ? (consultez **https://www.arin.net/knowledge/address\_filters.html** pour en savoir plus)
+Votre adresse est-elle une adresse privée ? (consultez **https://www.arin.net/knowledge/address_filters.html** pour en savoir plus)
 
-L’IANA (**http://www.iana.org**) est l’organisme responsable de la coordination du système d’adressage d’internet. Il alloue des adresses IP à des registres régionaux (**RIR** *–* **R**egional **I**nternet **R**egistry)
+L’[IANA](https://www.iana.org) est l’organisme responsable de la coordination du système d’adressage d’internet. Il alloue des adresses IP à des registres régionaux (**RIR** *–* **R**egional **I**nternet **R**egistry)
 
-1. Donnez 5 registres régionaux d’adresses IP ainsi que la zone géographique qu’ils couvrent
-2. Consultez le registre d’allocation des plages d’adresses IPv4 sur le site de l’IANA (**http://www.iana.org/numbers**)
+1. Donnez 5 registres régionaux d’adresses - [RIR](https://www.nro.net/about/rirs/) ainsi que la zone géographique qu’ils couvrent
+2. Consultez le [registre d’allocation des plages d’adresses](https://www.iana.org/numbers) IPv4 sur le site de l’IANA
    * A quel RIR est alloué le préfixe **193** ?
    * Utilisez la commande **whois** ou le site **http://ripe.net/whois** pour savoir à qui appartient l’adresse **193.48.251.195**
    * Qui gère les adresses ayant le préfixe **130** ?
@@ -155,11 +154,12 @@ L’IANA (**http://www.iana.org**) est l’organisme responsable de la coordinat
 ## 3. commandes et outils réseau
 Nous avons utilisé les commandes **ifconfig**, **whois** et **nslookup**. Rappelez brièvement la fonction de ces trois commandes.
 
-La commande **ping** permet de tester la connectivité au niveau IP (si elle n’est pas bloquée). Testez cette commande entre votre machine et celle de votre voisin. Testez la connectivité avec l’adresse **www.univ-tlse3.fr** et une machine extérieure au réseau de l’université (exemple : **www.google.com**) Quelle différence pouvez-vous observer entre les différents *ping* ?
+La commande **ping** permet de tester la connectivité au niveau IP (*si elle n’est pas bloquée*). Testez cette commande entre votre machine et celle de votre voisin. Testez la connectivité avec l’adresse **www.univ-tlse3.fr** et une machine extérieure au réseau de l’université (exemple : **www.google.com**) Quelle différence pouvez-vous observer entre les différents *ping* ?
 
-La commande **traceroute** permet de tracer l’itinéraire qu’emprunte un paquet IP entre un hôte source et destination.
+La commande **traceroute** permet de tracer l’itinéraire qu’emprunte un paquet IP entre un hôte source et destination (idem ... si ce n'est pas bloqué !).
 
 1. Testez et observez les résultats de la commande. Faites un **traceroute** vers **www.univ-tlse3.fr**. Représentez sur un schéma l’interconnexion (au niveau IP) entre votre PC et le serveur web de l’UPS.
+2. 
 
 [1]: **RFC** – Request For Comments, série numérotée de documents librement accessibles décrivant le plus souvent des spécifications techniques d’internet. La [RFC 1](https://datatracker.ietf.org/doc/html/rfc1) a été publiée le 7 avril 1969
 [2]: *0.0.0.0* est une adresse particulière utilisée comme adresse source dans les paquets de demande d’adresse DHCP par exemple.

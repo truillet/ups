@@ -1,24 +1,20 @@
+# TD1 : TCP-IP
 
-
-Travaux Pratiques : TCP-IP
-
-# Adressage dans Internet
-
+## Adressage dans Internet
 L’adressage IP permet aux matériels de pouvoir communiquer entre eux. Bien évidemment, cet adressage comporte de (nombreuses) règles que nous allons aborder dans la suite de ce TP.
 
 Deux systèmes d’adressage internet cohabitent à l’heure actuelle : adresse IPv4 (codée sur **32 bits**) et IPv6 depuis Juin 2011 (codée sur **128 bits**).
 
-**En France, le pourcentage d’utilisation d’IPv6 n’était encore que de 43% mi-2020 et 62% mi-2023 !**
+**En France, le pourcentage d’utilisation d’IPv6 n’était encore que de 43% mi-2020 et 62% mi-2023 (le fin de migration est prévue pour 2030) !**
 
-## 1.1 Identification d’une machine
-
+### 1.1 Identification d’une machine
 Une machine (appelée aussi hôte ou host) est identifiée dans Internet par son **adresse**. L’adresse Internet d’une machine correspond à un numéro qui est **unique** dans le monde.
 
 Pour des raisons mnémoniques, il est possible de donner un nom à une machine (ex : Toto, Garonne, Mimosa...). Attention, ce nom n’est pas compris par le réseau pour le routage (il faut associer ce nom à une adresse IP) et certains hôtes ont plusieurs noms.
 
 Les applications (ftp, https, ssh, ...) acceptent aussi bien les adresses que les noms.
 
-## 1.2 Structure de l’adresse IPv4
+### 1.2 Structure de l’adresse IPv4
 
 L’adresse utilisée par le protocole IP (adresse IP), comporte deux champs : le champ ***adresse réseau*** (Network) dans Internet et le champ ***adresse hôte*** (Host) dans le réseau. Sa taille est de quatre octets. Elle est souvent donnée en notation décimale pointée (ex : 127.95.35.54).
 
@@ -26,11 +22,10 @@ Comme l’adresse IP contient l’adresse réseau, une station changeant de rés
 
 L’adresse réseau est donnée par un organisme officiel (l’**IANA**: **I**nternet **A**ssigned **N**umbers **A**uthority, département de l’**ICANN** – Internet **C**orporation for **A**ssigned **N**ames and **N**umbers) garantissant l’unicité de cette adresse.
 
-## 1.3 Les classes d’adresses IPv4
+### 1.3 Les classes d’adresses IPv4
 
 Il existait à l’origine trois classes d’adresses IP qui permettent de gérer des réseaux de tailles diverses - **RFC[[1]](#footnote-1)** 790 (cf. Figure 1).
 
-![](data:image/x-wmf;base64...)
 
 **Figure 1** : Les trois classes d’adresses ipv4 (RFC 790)
 
@@ -65,7 +60,7 @@ Une nouvelle version de IP (**IPv6** pour IP version 6) définit les adresses su
 | ***Adresse réseaux privés*** | 10.\*.\*.\* réservé soit 1 réseau  127.\*.\*.\* (réseau local pour toute machine) | 172.16.\*.\* à  172.31.\*.\* soit 16 réseaux | 192.168.0.\* à  192.168.255.\* soit 256 réseaux |
 | ***Nbre de réseaux Internet*** | 125 | 16.368 | 2.096.896 |
 
-## 1.4 Notion de sous-réseaux
+### 1.4 Notion de sous-réseaux
 
 Comme on vient de le voir, il y a un très grand nombre possible de machines par réseau de classe A et B. Même un réseau de classe C, avec 254 machines possibles, est souvent trop important pour être contenu sur un même réseau physique (ex. un réseau Ethernet). Il a donc été nécessaire de fractionner un réseau en groupes plus petits.
 
@@ -81,13 +76,10 @@ Pour créer les sous-réseaux on va utiliser une partie de l’identificateur d�
 
 Exemple de partitionnement d’un réseau de classe B en 254 sous-réseaux (les valeurs avec que des 1 ou que des 0 sont interdites) :
 
-![](data:image/x-wmf;base64...)
-
 On peut choisir de réserver un nombre quelconque de bits pour l’identificateur de sous-réseau en fonction du nombre de sous-réseau et du nombre maximum de machines par sous-réseau que l’on désire. La seule restriction est que chaque identificateur ne doit pas être composé que de 1 ou que de 0 et donc l’identificateur de sous-réseau (par convention uniquement et pour respecter d’anciennes utilisations de ces valeurs) tout comme l’identificateur d’hôte final ne peuvent pas être codés sur 1 bit.
 
-## 1.5 Masques de sous-réseau
-
-Pour pouvoir communiquer correctement avec une machine, il faut savoir si elle est connectée au même réseau (et donc si on peut lui « *parler* » directement) ou s’il faudra s’adresser à un équipement réseau (un routeur) qui pourra la contacter.
+### 1.5 Masques de sous-réseau
+Pour pouvoir communiquer correctement avec une machine, il faut savoir si elle est connectée au même réseau (et donc si on peut lui *parler* directement) ou s’il faudra s’adresser à un équipement réseau (un routeur) qui pourra la contacter.
 
 Deux machines sont connectées sur le même réseau physique si leurs identificateurs de réseau et leurs identificateurs de sous-réseau sont identiques. C’est à dire si les seuls bits qui différent entre les adresses sont contenus dans la partie identificateur d’hôte.
 
@@ -106,15 +98,13 @@ Néanmoins, le **25 novembre 2019 à15h35**, le RIPE NCC (Registre Régional d�
 
 Il reste encore quelques adresses IPv4 par bloc **/24** en utilisant des adresses inutilisées ou récupérées (cf. Figure 3).
 
-## 1.6. Exercices
-
+### 1.6. Exercices
 1. Combien d’adresses IP peut posséder une machine ?
 2. Calculez les valeurs possibles des octets d’un masque de sous-réseau sachant que les id. de sous-réseau ne peuvent pas être tous à 0 ni tous à 1.
 3. Vous possédez l’adresse IP 130.20.76.103 et un masque de sous-réseau de 255.255.252.0. Trouvez l’adresse de broadcast correspondante à ce réseau.
 
-# 2. Wireshark et protocoles
-
-## 2.1 Introduction
+## 2. Wireshark et protocoles
+### 2.1 Introduction
 
 Tout au long du reste du TP, nous allons utiliser Wireshark (https://www.wireshark.org), un outil dit de « *capture réseau* » afin d’observer des données qui transitent sur le réseau.
 
@@ -123,7 +113,6 @@ Tout au long du reste du TP, nous allons utiliser Wireshark (https://www.wiresha
 **Figure 4** : interface de Wireshark
 
 L’interface utilisateur se compose de plusieurs parties :
-
 * **Barre de menus/icônes**
 * **Barre de filtrage** : cette zone permet de filtrer a posteriori une capture pour isoler une partie du trafic réseau.
 * **Fenêtre de la liste des messages capturés**. On retrouve sur chaque ligne le numéro du message, le moment de sa capture (en secondes depuis le début), son adresse source et destination, le protocole de plus haut niveau décodé et le résumé des champs caractéristiques de ce protocole.
@@ -132,8 +121,7 @@ L’interface utilisateur se compose de plusieurs parties :
 
 Démarrez le logiciel Wireshark. **Capturez du trafic réseau** (**seulement avec des droits administrateur**) et familiarisez-vous avec l’interface utilisateur en identifiant les différentes parties exposées précédemment.
 
-## 2.2 concept de protocole
-
+### 2.2 concept de protocole
 * Rappelez ce qu’est un « **protocole »**
 * Nous allons observer le trafic HTTP, protocole applicatif utilisé dans Internet entre un client (un navigateur par exemple) et un serveur web hébergeant le site. Enregistrez le trafic réseau et naviguez sur le site **http://www.redirection-web.net**. Pour n’afficher que le trafic *http*, utilisez la zone **Filter** en saisissant le mot-clé **http**.
   Pensez à consulter la 2ème partie de la fenêtre pour avoir accès aux différents champs des unités de données des protocoles (PDU).
@@ -144,22 +132,19 @@ Nous allons vérifier la validité du fichier HTML. Pour cela, sélectionnez le 
 
 * Que constatez-vous avec le protocole HTTPS (TLSv1.x) ? [nous verrons plus tard comment contourner ce problème]
 
-## 2.3 concept de couche et d’encapsulation
-
+ ### 2.3 concept de couche et d’encapsulation
 Nous venons d’illustrer le concept de protocole à travers le protocole HTTP permettant à un navigateur d’obtenir une page web. Cette communication n’est en réalité pas directe entre les deux processus applicatifs (client et serveur) mais s’appuie pour fonctionner sur un certain nombre de services sous-jacents. Les systèmes de communication sont construits traditionnellement selon un modèle en couches.
 
 * rappelez la définition du concept de « ***couche*** »
 * sur la capture effectuée précédemment, observez les différents niveaux d’encapsulation d’un message.
 
-## 2.4 concept de point d’accès au service
-
+### 2.4 concept de point d’accès au service
 Cette mise en œuvre d’un protocole pose plusieurs questions : en particulier de savoir comment le réseau sait à quelle machine est destiné un message et comment chaque couche sait à quelle entité de la couche supérieure remettre le contenu d’une unité de protocole. En ce qui concerne la communication entre deux couches adjacentes, celle-ci se fait grâce à un **point d’accès au service** (SAP – **S**ervice **A**ccess **P**oint)
 
 1. L’identifiant du point d’accès au service de la couche transport (T-SAP) est un numéro de port. Quel est le numéro de port pour l’entité HTTP de la machine **www.redirection-web.net** ? Et de la machine communiquant avec cette entité ?
 2. A partir d’un des messages HTTP de la capture, trouvez les autres identifiants de point d’accès aux services des couches réseaux et liaison (acheminement des unités de données entre les couches Transport-Réseau et Réseaux-Liaison de données)
 
-## 2.5 concept d’adresse
-
+### 2.5 concept d’adresse
 Chaque machine est identifiée par une adresse qui permet de la distinguer des autres. Une adresse assure donc l’identification des correspondants d’une communication. Il existe plusieurs types d’adresses en fonction du protocole utilisé.
 
 Une adresse liaison de type Ethernet suit un format standardisé par l’IEEE[[4]](#footnote-4). En particulier, les **trois premiers octets** identifient de manière unique le constructeur/vendeur à qui est attribuée l’adresse. Cet identifiant est appelé OUI (***O****rganizationally* ***U****nique* ***I****dentifier*)
@@ -188,8 +173,7 @@ L’IANA (**http://www.iana.org**) est l’organisme responsable de la coordinat
    * A qui appartient l’adresse **130.120.84.5** ?
    * Utiliser l’outil **nslookup** pour connaitre le ou les noms relatifs à l’adresse **130.120.84.5**
 
-# 3. commandes et outils réseau
-
+## 3. commandes et outils réseau
 Nous avons utilisé les commandes **ifconfig**, **whois** et **nslookup**. Rappelez brièvement la fonction de ces trois commandes.
 
 La commande **ping** permet de tester la connectivité au niveau IP (si elle n’est pas bloquée). Testez cette commande entre votre machine et celle de votre voisin. Testez la connectivité avec l’adresse **www.univ-tlse3.fr** et une machine extérieure au réseau de l’université (exemple : **www.google.com**) Quelle différence pouvez-vous observer entre les différents *ping* ?
@@ -198,8 +182,8 @@ La commande **traceroute** permet de tracer l’itinéraire qu’emprunte un paq
 
 1. Testez et observez les résultats de la commande. Faites un **traceroute** vers **www.univ-tlse3.fr**. Représentez sur un schéma l’interconnexion (au niveau IP) entre votre PC et le serveur web de l’UPS.
 
-1. RFC – Request For Comments, série numérotée de documents librement accessibles décrivant le plus souvent des spécifications techniques d’internet. La RFC 1 a été publiée le 7 avril 1969 [↑](#footnote-ref-1)
-2. 0.0.0.0 est une adresse particulière utilisée comme adresse source dans les paquets de demande d’adresse DHCP par exemple. [↑](#footnote-ref-2)
-3. 127.0.0.1 est l’adresse de loopback. [↑](#footnote-ref-3)
-4. https://www.ieee.org – Institute of Electrical and Electronics Engineers [↑](#footnote-ref-4)
+[1]: **RFC** – Request For Comments, série numérotée de documents librement accessibles décrivant le plus souvent des spécifications techniques d’internet. La RFC 1 a été publiée le 7 avril 196
+[2]: *0.0.0.0* est une adresse particulière utilisée comme adresse source dans les paquets de demande d’adresse DHCP par exemple.
+[3]: *127.0.0.1* est l’adresse de loopback.
+[4]: https://www.ieee.org – Institute of Electrical and Electronics Engineers 
 

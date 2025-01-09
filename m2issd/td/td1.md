@@ -5,6 +5,10 @@ L’adressage IP permet aux matériels de pouvoir communiquer entre eux. Bien é
 
 Deux systèmes d’adressage internet cohabitent (encore) à l’heure actuelle : adresse IPv4 (codée sur **32 bits**) et IPv6 depuis Juin 2011 (codée sur **128 bits**).
 
+**Exemples**
+* adresse ipv4 : *192.168.116.8*
+* adresse ipv6 : *fe80::215:5dff:fe8b:771d*
+
 **En France, le pourcentage d’utilisation d’IPv6 n’était que de 43% mi-2020 et 62% mi-2023 (le fin de migration est prévue pour 2030) !**
 
 ### 1.1 Identification d’une machine
@@ -19,7 +23,7 @@ L’adresse utilisée par le protocole IP (adresse IP), comporte deux champs : 
 
 Comme l’adresse IP contient l’adresse réseau, une station changeant de réseau change d’adresse. D’autre part, une station multi-domiciliée (qui dispose de plusieurs interfaces réseau) ou un routeur ont plusieurs adresses.
 
-L’adresse réseau est donnée par un organisme officiel (l’[**IANA**](https://www.iana.org) - **I**nternet **A**ssigned **N**umbers **A**uthority, département de l’[**ICANN**](https://www.icann.org/) – Internet **C**orporation for **A**ssigned **N**ames and **N**umbers) garantissant l’unicité de cette adresse.
+L’adresse réseau est donnée par un organisme officiel (l’[**IANA**](https://www.iana.org) - **I**nternet **A**ssigned **N**umbers **A**uthority, département de l’[**ICANN**](https://www.icann.org) – Internet **C**orporation for **A**ssigned **N**ames and **N**umbers) garantissant l’unicité de cette adresse.
 
 ### 1.3 Les classes d’adresses IPv4
 Il existait à l’origine (septembre 1981) trois classes d’adresses IP qui permettent de gérer des réseaux de tailles diverses - [RFC 790](https://datatracker.ietf.org/doc/html/rfc790) [^1]
@@ -143,22 +147,26 @@ L’[IANA](https://www.iana.org) est l’organisme responsable de la coordinatio
 1. Donnez 5 registres régionaux d’adresses - [RIR](https://www.nro.net/about/rirs/) ainsi que la zone géographique qu’ils couvrent
 2. Consultez le [registre d’allocation des plages d’adresses](https://www.iana.org/numbers) IPv4 sur le site de l’IANA
    * A quel RIR est alloué le préfixe **193** ?
-   * Utilisez la commande **whois** ou le site **http://ripe.net/whois** pour savoir à qui appartient l’adresse **193.48.251.195**
+   * Utilisez la commande **whois** ou le site **https://ripe.net/whois** pour savoir à qui appartient l’adresse **193.48.251.195**
    * Qui gère les adresses ayant le préfixe **130** ?
    * Interrogez le serveur **whois** pour avoir des informations sur l’adresse **130.120.84.5**
    * Que pouvez-vous en déduire sur les plages d’adresses **130.120.0.0 – 130.120.255.255**
-   * A qui appartient l’adresse **130.120.84.5** ?
-   * Utiliser l’outil **nslookup** pour connaitre le ou les noms relatifs à l’adresse **130.120.84.5**
+   * Utiliser l’outil **nslookup** pour connaitre le ou les noms relatifs à l’adresse **www.univ-tlse3.fr** et son adresse ip
+   * Faites de même avec l'adresse **www.google.fr** et son adresse ip. Que remarquez-vous ?
+   * utiliser enfin l'outil **curl** avec la commande *curl -v www.univ-tlse3.fr*. Que pouvez-vous en conclure ?
 
-## 3. commandes et outils réseau
-Nous avons utilisé les commandes **ifconfig**, **whois** et **nslookup**. Rappelez brièvement la fonction de ces trois commandes.
+## 3. autres commandes et outils réseau
+Nous avons utilisé les commandes **ifconfig**, **whois**, **nslookup** et **curl**. Rappelez brièvement la fonction de ces quatre commandes.
 
-La commande **ping** permet de tester la connectivité au niveau IP (*si elle n’est pas bloquée*). Testez cette commande entre votre machine et celle de votre voisin. Testez la connectivité avec l’adresse **www.univ-tlse3.fr** et une machine extérieure au réseau de l’université (exemple : **www.google.com**) Quelle différence pouvez-vous observer entre les différents *ping* ?
+La commande **ping** permet de tester la connectivité au niveau IP (*si elle n’est pas bloquée*). 
+1. Testez cette commande entre votre machine et celle de votre voisin. Testez la connectivité avec l’adresse **www.univ-tlse3.fr** et une machine extérieure au réseau de l’université (exemple : **www.google.com**) Quelle différence pouvez-vous observer entre les différents *ping* ?
 
 La commande **traceroute** permet de tracer l’itinéraire qu’emprunte un paquet IP entre un hôte source et destination (idem ... si ce n'est pas bloqué !).
+1. Testez et observez les résultats de la commande. Faites un **traceroute** vers **www.univ-tlse3.fr**.
 
-1. Testez et observez les résultats de la commande. Faites un **traceroute** vers **www.univ-tlse3.fr**. Représentez sur un schéma l’interconnexion (au niveau IP) entre votre PC et le serveur web de l’UPS.
-2. 
+Représentez sur un schéma l’interconnexion (au niveau IP) entre votre PC et le serveur web de l’Université Toulouse 3.
+
+Il en existe plein d'autres que nous verrons bientôt !
 
 [^1]: **RFC** – Request For Comments, série numérotée de documents librement accessibles décrivant le plus souvent des spécifications techniques d’internet. La [RFC 1](https://datatracker.ietf.org/doc/html/rfc1) a été publiée le 7 avril 1969
 [^2]: *0.0.0.0* est une adresse particulière utilisée comme adresse source dans les paquets de demande d’adresse DHCP par exemple.

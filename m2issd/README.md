@@ -4,6 +4,9 @@
 * 1- **Introduction réseaux / problématiques cyber**
   * [Introduction aux réseaux](https://github.com/truillet/ups/blob/master/m2issd/cours/introduction_2025.pdf) (2025)
      * [Histoire des réseaux de communication](https://interstices.info/une-breve-histoire-des-reseaux-de-telecommunications/)
+     * [Douglas Engelbart, inventeur et visionnaire](https://interstices.info/douglas-engelbart-inventeur-et-visionnaire/)
+     * [Première connexion française à ARPANET](https://interstices.info/au-coeur-de-la-premiere-connexion-francaise-a-larpanet/)
+     * [La Neutralité du net face à l'évolution des réseaux](https://interstices.info/la-neutralite-du-net-face-a-levolution-des-reseaux/)
   <!--
   * [Introduction Générale cyber-*](https://github.com/truillet/ups/blob/master/m2issd/cours/Cyber_Octobre2023.pdf) (2024)
   * [Robotique - le futur est presque parmi nous](https://github.com/truillet/ups/blob/master/m2issd/cours/Robotique_fevrier_2022.pdf) (2022)

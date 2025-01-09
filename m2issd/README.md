@@ -2,7 +2,7 @@
 
 ## Cours
 * 1- **Introduction réseaux / problématiques cyber**
-  * [Introduction aux réseaux](https://github.com/truillet/ups/blob/master/m2issd/cours/introduction_2024.pdf) (2024)
+  * [Introduction aux réseaux](https://github.com/truillet/ups/blob/master/m2issd/cours/introduction_2025.pdf) (2025)
   * [Introduction Générale cyber-*](https://github.com/truillet/ups/blob/master/m2issd/cours/Cyber_Octobre2023.pdf) (2024)
   * [Robotique - le futur est presque parmi nous](https://github.com/truillet/ups/blob/master/m2issd/cours/Robotique_fevrier_2022.pdf) (2022)
 * [2 - Reconnaissance (OSINT)](https://github.com/truillet/ups/blob/master/m2issd/cours/OSINT_Reconnaissance.pdf) (2024)
@@ -13,6 +13,7 @@
 * [4- Gaining Access](https://github.com/truillet/ups/blob/master/m2issd/cours/Gaining_Access.pdf) (2024)
   * [xz backdoor](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/)
   * [NTLM to plaintext password](https://ntlm.pw)
+   
 * 5- **Programmer / Preuves de concepts**
   * [Focus sur le reverse Shell](https://github.com/truillet/ups/blob/master/m2issd/cours/Reverse_Shell.pdf) (2024)
   * [Introduction à Arduino](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_arduino.pdf) (2024) 
@@ -20,7 +21,7 @@
   * [Introduction à Python](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_Python.pdf) (2023)  
   
 ## Travaux Dirigés
-* **TP1** : [TCP/IP](https://github.com/truillet/ups/blob/master/m2issd/td/TP1_TCP_IP.pdf) (2024)
+* **TP1** : [TCP/IP](https://github.com/truillet/ups/blob/master/m2issd/td/td1.md) (2025)
 * **TP2** : [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_BUSINT.pdf) (2024)
    * Un jeu : [Sourcing Games, Games for Recruiters and Sourcers](https://sourcing.games)
    * *quelques liens*

@@ -80,7 +80,6 @@ Il faut donc une autre information : le nombre de bits utilisés pour l’identi
 
 Pour indiquer cette information on utilise un masque binaire qui permet de déterminer la partie *identificateur de réseau* + *identificateur de sous-réseau* d’une adresse IP avec un simple **ET** (AND) binaire. Ce masque binaire est appelé : **masque de sous-réseau**.
 
-
 La [**RFC 1338**](https://datatracker.ietf.org/doc/html/rfc1338) propose d’abolir la notion de classe et le CIDR (**C**lassless **I**nter-**D**omain **R**outing) est mis au point en 1993. L’utilisation de masques de longueur variable découpe l’espace d’adressage en blocs (**/x**) de taille variable permettant une utilisation plus efficace de l’espace d’adressage.
 Néanmoins, le **25 novembre 2019 à15h35**, le [**RIPE NCC**](https://www.ripe.net/) (Registre Régional d’attribution des adresses IP Europe/Asie) a attribué les derniers blocs **/22** (les derniers blocs **/8** ont été attribués en 2012) - cf. Figure 2.
 
@@ -100,12 +99,12 @@ Il reste encore quelques adresses IPv4 par bloc **/24** en utilisant des adresse
 Tout au long du reste du TP, nous allons utiliser quelques outils réseaux afin de comprendre certaines notions
 
 ### 2.2 concept de protocole
-* Rappelez ce qu’est un « **protocole »**
+* Rappelez ce qu’est un **protocole**
 * Nous allons observer le trafic (cf. Figure 3) échangé entre un client et un sereur avec [Wireshark](https://www.wireshark.org), un outil dit de *capture réseau*.
   
 <img src="wireshark_http.png" alt="Wireshark - échange http" width="350"/>
 
-**Figure 3** : échange http avec un serveur web
+**Figure 3** : échange http avec un serveur web [ressource pcapng](https://github.com/truillet/ups/blob/master/m2issd/ressources/wireshark_http.pcapng)
 * Quelle est la commande HTTP utilisée par le client pour demander au serveur une ressource (fichier ou page web). Quels sont les types de réponse qui sont mis en évidence ? Donnez leur code de retour.
 * Observez le contenu de la réponse du serveur.
 

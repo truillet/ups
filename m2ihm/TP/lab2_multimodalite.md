@@ -25,6 +25,7 @@ Vous pouvez utiliser le document disponible ici	:(https://github.com/truillet/up
 ## Outils disponibles
 *	[ppilot5](https://github.com/truillet/ivy/blob/master/agents/doc_ppilot5.md), agent ivy de synthèse vocale (prend en compte le format [SSML](https://www.w3.org/TR/speech-synthesis11)
 *	[Braille_display](https://github.com/truillet/ups/blob/master/m2ihm/TP/Braille_display.zip), agent ivy simulant une plage braille 10 points braille
+*	le [visionneur ivy](https://github.com/truillet/ivy/blob/master/lib/visionneur_1_2.zip)
 *	Le [middleware ivy](https://github.com/truillet/ivy)
 
 Vous pouvez coder votre moteur dans <ins>le langage que vous voulez</ins>.

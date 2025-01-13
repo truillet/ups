@@ -21,4 +21,10 @@ Après avoir <ins>pris en main</ins> les [agents de reconnaissance **sra5**](htt
 
 A la fin de la séance, vous aurez produit un **prototype haute-fidélité testable** du système demandé. 
 
+## Outils disponibles
+* [sra5](https://github.com/truillet/ivy/blob/master/agents/sra5.zip), agent de reconnaissance vocale (prend en compte le format [GrXML](https://www.w3.org/TR/speech-grammar)
+*	[ppilot5](https://github.com/truillet/ivy/blob/master/agents/doc_ppilot5.md), agent ivy de synthèse vocale (prend en compte le format [SSML](https://www.w3.org/TR/speech-synthesis11)
+*	[Braille_display](https://github.com/truillet/ups/blob/master/m2ihm/TP/Braille_display.zip), agent ivy simulant une plage braille 10 points braille
+*	le [visionneur ivy](https://github.com/truillet/ivy/blob/master/lib/visionneur_1_2.zip)
+*	Le [middleware ivy](https://github.com/truillet/ivy)
 

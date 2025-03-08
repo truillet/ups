@@ -7,11 +7,8 @@
      * [Douglas Engelbart, inventeur et visionnaire](https://interstices.info/douglas-engelbart-inventeur-et-visionnaire/)
      * [Première connexion française à ARPANET](https://interstices.info/au-coeur-de-la-premiere-connexion-francaise-a-larpanet/)
      * [La Neutralité du net face à l'évolution des réseaux](https://interstices.info/la-neutralite-du-net-face-a-levolution-des-reseaux/)
-  <!--
-  * [Introduction Générale cyber-*](https://github.com/truillet/ups/blob/master/m2issd/cours/Cyber_Octobre2023.pdf) (2024)
-  * [Robotique - le futur est presque parmi nous](https://github.com/truillet/ups/blob/master/m2issd/cours/Robotique_fevrier_2022.pdf) (2022)
-  -->
-* [2 - Reconnaissance (OSINT)](https://github.com/truillet/ups/blob/master/m2issd/cours/OSINT_Reconnaissance.pdf) (2024)
+
+* [2 - Reconnaissance (OSINT)](https://github.com/truillet/ups/blob/master/m2issd/cours/OSINT_Reconnaissance.pdf) (2025)
   * [Qu'est que l'OSINT](https://www.numerama.com/cyberguerre/1628506-quest-ce-que-losint.html)
    * [Livre blanc de l'OSINT](https://ozint.eu/contributions/Livre%20blanc-Le%20cadre%20legal%20OSINT-2023.pdf)
    * [YT - Tuto Maltego + GEOINT](https://www.youtube.com/watch?v=23bC9GQLB38)
@@ -28,7 +25,8 @@
   
 ## Travaux Dirigés
 * **TD1** : [TCP/IP](https://github.com/truillet/ups/blob/master/m2issd/td/td1.md) (2025)
-* **TD2** : [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/TP2_BUSINT.pdf) (2024)
+* **TD2** : [overpass turbo](https://github.com/truillet/ups/blob/master/m2issd/td/td2_overpass.md) (2025)
+* **TD2bis** : [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/td2_busint.md) (2025)
    * Un jeu : [Sourcing Games, Games for Recruiters and Sourcers](https://sourcing.games)
    * *quelques liens*
      * [Google Dorks](https://www.exploit-db.com/google-hacking-database) et [DorkSearch.com](https://dorksearch.com)

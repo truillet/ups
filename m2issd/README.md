@@ -28,14 +28,14 @@
 * **TD2** :
   * [Introduction à Overpass](https://github.com/truillet/ups/blob/master/m2issd/cours/OverPass.pdf) (2025)
   * [excercice](https://github.com/truillet/ups/blob/master/m2issd/td/td2_overpass.md) (2025)
-* **TD2bis** : [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/td2_busint.md) (2025)
-   * Un jeu : [Sourcing Games, Games for Recruiters and Sourcers](https://sourcing.games)
-   * *quelques liens*
-     * [Google Dorks](https://www.exploit-db.com/google-hacking-database) et [DorkSearch.com](https://dorksearch.com)
-     * [OSINT Map](https://cybdetective.com/osintmap)
-     * [Ask OSM Map](https://overpass-turbo.eu)
-     * [MetaGuessR](https://metaguessr.wordpress.com)
-     * [SunCalc](https://www.suncalc.org)
+  * [Business Intelligence](https://github.com/truillet/ups/blob/master/m2issd/td/td2_busint.md) (2025)
+    * Un jeu : [Sourcing Games, Games for Recruiters and Sourcers](https://sourcing.games)
+    * *quelques liens*
+      * [Google Dorks](https://www.exploit-db.com/google-hacking-database) et [DorkSearch.com](https://dorksearch.com)
+      * [OSINT Map](https://cybdetective.com/osintmap)
+      * [Ask OSM Map](https://overpass-turbo.eu)
+      * [MetaGuessR](https://metaguessr.wordpress.com)
+      * [SunCalc](https://www.suncalc.org)
 * **TD3** : [Découverte de la topologie réseau](https://github.com/truillet/ups/blob/master/m2issd/td/TP3_Scanning.pdf) (2024)
    * [NMAP Cheat Sheet](https://www.stationx.net/nmap-cheat-sheet)
 * **TD4** : [Initiation à la Sécurité Informatique](https://github.com/truillet/ups/blob/master/m2issd/td/TP4_Initiation_Securite.pdf) (2024)

@@ -4,7 +4,7 @@
 ## Introduction
 Premièrement, téléchargez la photographie officielle du Président Macron (2017) disponible ici : [Portrait](https://github.com/truillet/ups/blob/master/m2issd/ressources/EM_portait.jpg)
 
-<img src="https://github.com/truillet/ups/blob/master/m2issd/ressources/EM_portait" width=150>
+<img src="https://github.com/truillet/ups/blob/master/m2issd/ressources/EM_portait.jpg" width=150>
 
 A  première  vue,  la  photographie  semble  ne  révéler  aucune  information  ni  secret  particulier.
 Le Président est adossé sur son bureau sur lequel se trouve un livre ouvert. Il est entouré par les drapeaux

@@ -2,15 +2,17 @@
 *(Exercice basé sur un article de Stéphane Calé)*
 
 ## Introduction
-Premièrement, téléchargez la photographie officielle du Président Macron (2017) disponible ici :
-https://github.com/truillet/ups/blob/master/m2issd/ressources/EM_portait.jpg
+Premièrement, téléchargez la photographie officielle du Président Macron (2017) disponible ici : [Portrait](https://github.com/truillet/ups/blob/master/m2issd/ressources/EM_portait.jpg)
+
+<img src="https://github.com/truillet/ups/blob/master/m2issd/ressources/EM_portait" width=150>
 
 A  première  vue,  la  photographie  semble  ne  révéler  aucune  information  ni  secret  particulier.
 Le Président est adossé sur son bureau sur lequel se trouve un livre ouvert. Il est entouré par les drapeaux
-français et européen et dans le fond, la fenêtre ouverte donne sur le jardin du palais de l’Elysée …
+français et européen et dans le fond, la fenêtre ouverte donne sur le jardin du palais de l’Elysée ...
 Mais, regardons-y de plus près …
 
 Qu’est-il révélé à propos de la sécurité ?
+
 Analysez l’image et en particulier les éléments de composition de l’image. Que pouvez-vous découvrir et
 inférer à propos de l’environnement matériel autour du Président ?
 
@@ -19,10 +21,8 @@ la séance de prise de vue et la construction du cliché.
 
 ### Liens utiles
 * https://www.ssi.gouv.fr/administration/services-securises/cryptophonie-de-nouvelle-generation
-* https://www.elysee.fr/emmanuel-macron/2017/06/29/portrait-officiel-du-president-de-la-
-republique
-* https://www.nouvelobs.com/photo/20170629.OBS1388/symbolique-esthetique-le-portrait-
-officiel-d-emmanuel-macron-decrypte.html
+* https://www.elysee.fr/emmanuel-macron/2017/06/29/portrait-officiel-du-president-de-la-republique
+* https://www.nouvelobs.com/photo/20170629.OBS1388/symbolique-esthetique-le-portrait-officiel-d-emmanuel-macron-decrypte.html
 * https://www.franceinter.fr/politique/la-photo-officielle-d-emmanuel-macron-est-enfin-publiee
 
 ## Traitement de l’image

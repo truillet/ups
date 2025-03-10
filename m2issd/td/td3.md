@@ -4,11 +4,12 @@ L’objectif des exercices qui suivent est de vous familialiser avec les outils 
 
 ## Introduction
 Quelques commandes utiles pour le TP
-
-* nslookup <nom_domaine>
-* ping <adresse ip>
-* traceroute <nom domaine ou adresse ip>
-* whois <nom domaine>
+```console
+nslookup <nom_domaine>
+ping <adresse ip>
+traceroute <nom domaine ou adresse ip>
+whois <nom domaine>
+```
 
 ### Sites
 * https://www.iana.org/numbers - Internet Assign Numbers Authority

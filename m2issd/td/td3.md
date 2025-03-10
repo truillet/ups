@@ -1,4 +1,4 @@
-# Travaux Pratiques  : Découverte de la topologie réseau
+# Découverte de la topologie réseau
 
 L’objectif des exercices qui suivent est de vous familialiser avec les outils et démarche de découverte de la topologie réseau.
 

@@ -1,4 +1,4 @@
-# TD1 : TCP-IP
+# TCP-IP (Transfer Control Protocol - Internet Protocol)
 
 ## Adressage dans Internet
 L’adressage IP permet aux matériels de pouvoir communiquer entre eux. Bien évidemment, cet adressage comporte de (nombreuses) règles que nous allons aborder dans la suite de ce TP.

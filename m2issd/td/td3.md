@@ -34,7 +34,8 @@ Dans l’environnement déployé en salle de TP (si cela a pu être effectué), 
 * les services proposés (*ouverts*) sur chacune des machines
 * et les systèmes d’exploitation des machines identifiées
 
-Sélectionner des services qui vous semblent potnetiellement intéressants pour une attaque : pourquoi les avez-vous choisi ?
-Où chercheriez-vous de l’information ? Quels seraient les critères qui guideraient vos choix ?
+Sélectionner des services qui vous semblent potentiellement intéressants pour une attaque : pourquoi les avez-vous choisi ?
+* Où chercheriez-vous de l’information ?
+* Quels seraient les critères qui guideraient vos choix ?
 
 Essayez d’en savoir plus sur leur version de protocole utilisé et la manière dont vous pourriez entrer dans le système : où vous procurez-vous l’information et qu’aller vous utiliser pour tenter une intrusion ?

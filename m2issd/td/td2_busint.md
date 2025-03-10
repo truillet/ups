@@ -1,4 +1,4 @@
-# Travaux Pratiques 2 : BUSINT – Business Intelligence
+# BUSINT – Business Intelligence
 *(Exercice basé sur un article de Stéphane Calé)*
 
 ## Introduction

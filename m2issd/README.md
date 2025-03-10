@@ -36,7 +36,7 @@
       * [Ask OSM Map](https://overpass-turbo.eu)
       * [MetaGuessR](https://metaguessr.wordpress.com)
       * [SunCalc](https://www.suncalc.org)
-* **TD3** : [Découverte de la topologie réseau](https://github.com/truillet/ups/blob/master/m2issd/td/TP3_Scanning.pdf) (2024)
+* **TD3** : [Découverte de la topologie réseau](https://github.com/truillet/ups/blob/master/m2issd/td/td3.md) (2025)
    * [NMAP Cheat Sheet](https://www.stationx.net/nmap-cheat-sheet)
 * **TD4** : [Initiation à la Sécurité Informatique](https://github.com/truillet/ups/blob/master/m2issd/td/TP4_Initiation_Securite.pdf) (2024)
    * [Rowbot's PenTest Notes](https://guide.offsecnewbie.com/shells)

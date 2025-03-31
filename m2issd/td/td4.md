@@ -8,12 +8,15 @@ Nous aborderons quelques éléments et outils de la sécurité : intégrité de 
 ## Empreintes MD5 / SHA-1
 En cryptographie, MD5 (Message Digest algorithm 5 défini par Ronald Rivest en 1991 au MIT) et SHA-1 (Secure Hash Algorithm 1 défini par la NSA en 1993) sont des fonctions de hachage fréquemment utilisées pour vérifier l’intégrité des fichiers.
 
-Devenu un standard internet (http://www.ietf.org/rfc/rfc1321.txt), MD5 est employé dans beaucoup d’applications de sécurité et permet rapidement de s’assurer de l’intégrité de fichiers (utile lors de téléchargement). Ainsi,  en  comparant  l’empreinte  md5  du  fichier  que  vous  venez  de  récupérer  à  l’empreinte  que  le  site  de téléchargement vous donne, vous pouvez vous assurer que vous possédez le même fichier que l’original.
+Devenu un standard internet, [MD5](http://www.ietf.org/rfc/rfc1321.txt) est employé dans beaucoup d’applications de sécurité et permet rapidement de s’assurer de l’intégrité de fichiers (utile lors de téléchargement). Ainsi,  en  comparant  l’empreinte  md5  du  fichier  que  vous  venez  de  récupérer  à  l’empreinte  que  le  site  de téléchargement vous donne, vous pouvez vous assurer que vous possédez le même fichier que l’original.
 
 **Nota**
-md5sum est un outil de calcul d’empreinte déjà présent sur les systèmes linux.
+*md5sum* est un outil de calcul d’empreinte déjà présent sur les systèmes linux.
 
-Installez ensuite 7zip sur votre machine en tapant sudo apt-get install p7zip
+Installez ensuite 7zip sur votre machine en tapant 
+```bash
+sudo apt-get install p7zip
+```
 
 ### Exercice
 * Téléchargez les fichiers images canal.jpg et pigeonnier.jpg à l’adresse

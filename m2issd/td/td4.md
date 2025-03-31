@@ -102,7 +102,7 @@ gpg --gen-revoke (votre adresse mél) > revoc_(votre adresse mél).txt
 ```
 Répondez aux questions posées.
 
-* Ensuite, envoyez votre clé publique sur le serveur (par exemple pgp.mit.edu) en utilisant :
+* Ensuite, envoyez votre clé publique sur le serveur (par exemple https://pgp.mit.edu) en utilisant :
 ```bash
 gpg --keyserver hkp://pgp.mit.edu --send-keys (la clé publique)
 ```
@@ -155,19 +155,20 @@ René utilise RSA et publie sa clé publique (n=187, e=3)
 
 * Encoder le message (ASCII) suivant : BOB avec la clé publique de René (B possède le code ASCII 66)
 
-Rappel : chiffrement du caractère (x)  C=(x)e mod n
+**Rappel**
+chiffrement du caractère (x) --> C=(x)e mod n
+
 En utilisant le fait que l’indicatrice d’Euler phi(n)=(p-1).(q-1) est égal à 160 dans notre cas, retrouvez les facteurs premiers p et q (permettant le calcul de la clé secrète de René)
 * Qu’en concluez-vous sur l’algorithme en général ?
 
 **Liens**
-
 *  https://www.securiteinfo.com/cryptographie/cracked.shtml
 *  https://www.nextinpact.com/news/99301-une-intelligence-artificielle-a-casse-chiffrement-rsa-sur-2048-bits.htm
 
 ### exercice général
 En sachant que pour encoder un fichier, il faut utiliser la commande
 ```bash
-steghide embed -cf fichier.jpg -ef fichier_à_cacher,
+steghide embed -cf fichier.jpg -ef fichier_à_cacher
 ```
 * Créez un fichier zip contenant n’importe quoi protégé par un mot de passe de 5 lettres.
 *  Créez un deuxième fichier zip protégé par un autre mot de passe (à vous de décider lequel avec la taille de votre choix) contenant votre clé publique.

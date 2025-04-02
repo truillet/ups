@@ -18,10 +18,8 @@
   * [NTLM to plaintext password](https://ntlm.pw)
    
 * 5- **Programmer / Preuves de concepts**
+  * [Introduction à Python](https://github.com/truillet/ups/blob/master/m2issd/cours/Python.pdf) (2025)
   * [Focus sur le reverse Shell](https://github.com/truillet/ups/blob/master/m2issd/cours/Reverse_Shell.pdf) (2024)
-  * [Introduction à Arduino](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_arduino.pdf) (2024) 
-  * [Introduction à Raspberry Pi](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_RPi.pdf) (2023)
-  * [Introduction à Python](https://github.com/truillet/ups/blob/master/m2issd/cours/Introduction_Python.pdf) (2023)  
   
 ## Travaux Dirigés
 * **TD1** : [TCP/IP](https://github.com/truillet/ups/blob/master/m2issd/td/td1.md) (2025)
@@ -45,6 +43,7 @@
 * **TD5** : [Python & librairie scapy](https://github.com/truillet/ups/blob/master/m2issd/td/td5_python.md) (2025)
    * [article de GNU Linux Mag](https://connect.ed-diamond.com/GNU-Linux-Magazine/GLMFHS-090/Scapy-le-couteau-suisse-Python-pour-le-reseau)
    * code [ROT13](https://github.com/truillet/ups/blob/master/m2issd/code/ROT13.py) et [OACI](https://github.com/truillet/ups/blob/master/m2issd/code/OACI.zip)
+   * [edupyter](https://www.edupyter.net) (windows)
 
 ## Annales d'examens sur table
 * **[Sujet Examen 2021](https://github.com/truillet/ups/blob/master/m2issd/annales/Exam_m2issd_20-21_UE8.pdf)**

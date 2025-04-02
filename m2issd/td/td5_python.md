@@ -190,7 +190,7 @@ dport=[80,443]
 Utilisons un scan SYN. Le principe est simple, un paquet TCP est envoyé sur le port désiré de la cible avec le flag SYN. Si son port accepte les connexions, il renverra un paquet TCP avec les flags SYN et ACK.
 ```
 >>> paquet = IP(dst="192.168.0.254") / TCP(sport=12345, dport=[80,443], flags='S')
->>> rep,non\_rep = sr(paquet)
+>>> rep,non_rep = sr(paquet)
 ```
 Analysez le résultat ... Qu’en concluez-vous ?
 
@@ -202,7 +202,6 @@ Si vous ne comprenez pas tout, un bout de code vaut mieux qu’un grand discours
 ```
 >>> rep,non_rep=sr( IP(dst="209.85.143.100", ttl=(1,25)) / TCP(), timeout=1 )
 ```
-
 Analysez le résultat !
 
 ### sniff : écouter le réseau
@@ -232,7 +231,7 @@ Ses paramètres sont :
 
 On peut préciser l’interface que l’on veut utiliser avec l’option **iface**.
 ```
->>> trafic=sniffer(iface=“eth0”)
+>>> trafic=sniffer(iface="eth0")
 ```
 Nous pouvons maintenant lister les paquets reçu (ici uniquement de l’UDP) avec la commande **summary()**.
 
@@ -252,8 +251,8 @@ a=sniff(count=10)
 a.nsummary()
 ```
 
-### Le protocole ARP (https://www.ietf.org/rfc/rfc903.txt) et scapy
-ARP (Adresse Resolution Protocole) est un protocole qui sert de liaison entre la couche 2 et 3 du modèle OSI, c’est à dire qu’il permet d’associer une Adresse MAC avec une Adresse IP.
+### Le [protocole ARP](https://www.ietf.org/rfc/rfc903.txt) et scapy
+ARP (Adresse Resolution Protocol) est un protocole qui sert de liaison entre la couche 2 et 3 du modèle OSI, c’est à dire qu’il permet d’associer une Adresse MAC avec une Adresse IP.
 
 De cette manière, le routage des paquets peut se dérouler correctement sur le réseau. Cette association MAC/IP est stockée dans le cache ARP. Le protocole ARP peut envoyer une requête afin de connaitre à qui appartient une adresse IP (Opération who-has) et une réponse qui permet d’identifier l’adresse IP avec l’adresse MAC (Opération is-at). Cependant, ARP peut faire le contraire en utilisant RARP (Reverse ARP).
 
@@ -263,7 +262,7 @@ Pour se faire, il suffit simplement de forger un paquet ARP de type « is-at �
 ```
 >>> target = "192.168.0.200"
 >>> victim = "192.168.0.48"
->>> sendp(Ether(dst=getmacbyip(victim),src="votre\_adresse\_mac")/ARP(op="is-at",hwsrc="votre\_adresse\_mac", hwdst=getmacbyip(victim), psrc=target, pdst=victim))
+>>> sendp(Ether(dst=getmacbyip(victim),src="votre_adresse_mac")/ARP(op="is-at",hwsrc="votre_adresse_mac", hwdst=getmacbyip(victim), psrc=target, pdst=victim))
 ```
 
 Utilisé avec l’adresse MAC de votre machine, vous serez placés en **Man In the Middle**, c’est à dire que votre machine sera entre les deux machines, ce qui vous donne un contrôle sur leurs trafics respectifs (enfin, en théorie … 😊).
@@ -280,7 +279,7 @@ Nous pouvons de la même manière isoler une machine du réseau en lui disant qu
 Voici un script qui permet l’envoi de paquets :
 ```python
 #!/usr/bin/env python
-from scapy.all import \*
+from scapy.all import *
 send(IP(dst="1.2.3.4")/ICMP())
 sendp(Ether()/IP(dst="1.2.3.4",ttl=(1,4)), iface="eth0")
 ```
@@ -291,7 +290,7 @@ La différence est très importante car certains paquets, comme ICMP, sont spéc
 
 ```python
 #!/usr/bin/env python
-from scapy.all import \*
+from scapy.all import *
 
 ans,unans=sr(IP(dst="192.168.86.130",ttl=5)/ICMP()
 ans.nsummary()
@@ -309,6 +308,7 @@ La fonction sr() permet d’envoyer des paquets et de recevoir des réponses. El
 #!/usr/bin/env python
 import sys from scapy.all
 import sr1,IP,ICMP
+
 p=sr1(IP(dst=sys.argv[1])/ICMP())
 if p:
   p.show()
@@ -317,9 +317,9 @@ if p:
 Le script précédent introduit des arguments système en entrée. L’adresse de destination sys.argv[1] signifie qu’après l’exécution du script, le premier argument qui suit l »exécution du script sera utilisé comme adresse de destination, par exemple : # ./scapysr.py 192.168.0.1. Ainsi, nous n’avons plus besoin d’éditer le fichier source à chaque fois que nous voulons utiliser une adresse IP différente.
 
 Scapy peut également utiliser des méthodes afin de construire des programmes entiers dédiés à certaines fonctions, telles que le sniffing de paquets en direct :
-```
+```python
 #!/usr/bin/env python
-from scapy.all import \*
+from scapy.all import *
 
 def arp_monitor_callback(pkt):
   if ARP in pkt and pkt[ARP].op in (1,2): # who-has or is-at

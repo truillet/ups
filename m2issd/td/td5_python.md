@@ -1,4 +1,4 @@
-# Python & Scapy)
+# Python & la librarie Scapy
 
 Nous allons utiliser dans ce TP le langage Python (v. 3.x) sur un dispositif Linux (WSL sous windows, MacOS ou sur du matériel de type Raspberry Pi).
 Il y a deux possibilités pour vous connecter :

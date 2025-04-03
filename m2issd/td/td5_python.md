@@ -208,7 +208,7 @@ Analysez le résultat !
 
 Voilà une simplification de la signature de cette fonction :
 ```
-sniff(filter="", count=0, prn=None, lfilter=None, timeout=None, iface=All)
+sniff(filter="", count=10, prn=None, lfilter=None, timeout=None)
 ```
 
 **sniff** renvoie une liste de paquets (en comparaison, sr() renvoie deux listes de paquets).
